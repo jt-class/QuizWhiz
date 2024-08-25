@@ -1,0 +1,1 @@
+C:\Users\alber\OneDrive\Documents\GitHub\BSCS2024-Group4\QuizWhiz\QuizWhiz\QuizWhiz.csproj;x64
