@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\alber\\onedrive\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\alber\\onedrive\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\alber\\onedrive\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\platforms\\windows\\package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}",
+      "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\platforms\\windows\\package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "QuizWhiz\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\MainPage.xaml.cs*",
-              "RelativeToolTip": "QuizWhiz\\MainPage.xaml.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T05:45:09.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\MainPage.xaml",
               "RelativeDocumentMoniker": "QuizWhiz\\MainPage.xaml",
               "ToolTip": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\MainPage.xaml",
               "RelativeToolTip": "QuizWhiz\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-25T05:35:27.882Z",
+              "WhenOpened": "2024-08-31T14:42:43.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Package.appxmanifest",
+              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Platforms\\Windows\\Package.appxmanifest",
+              "RelativeDocumentMoniker": "QuizWhiz\\Platforms\\Windows\\Package.appxmanifest",
+              "ToolTip": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Platforms\\Windows\\Package.appxmanifest",
+              "RelativeToolTip": "QuizWhiz\\Platforms\\Windows\\Package.appxmanifest",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001793|",
+              "WhenOpened": "2024-08-31T14:42:29.553Z",
               "EditorCaption": ""
             }
           ]

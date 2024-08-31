@@ -30,269 +30,297 @@
     <AppXManifest Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-08-25T05:48:25.072</Modified>
+      <Modified>2024-08-31T14:41:41.572</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-08-25T05:43:08.985</Modified>
+      <Modified>2024-08-31T14:41:41.302</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\QuizWhiz.runtimeconfig.json">
       <PackagePath>QuizWhiz.runtimeconfig.json</PackagePath>
-      <Modified>2024-08-25T05:33:55.786</Modified>
+      <Modified>2024-08-31T13:04:20.163</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\QuizWhiz.dll">
       <PackagePath>QuizWhiz.dll</PackagePath>
-      <Modified>2024-08-25T05:48:24.569</Modified>
+      <Modified>2024-08-31T14:41:39.556</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>QuizWhiz.exe</PackagePath>
-      <Modified>2024-08-25T05:48:24.574</Modified>
+      <Modified>2024-08-31T14:41:39.627</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
-      <Modified>2024-08-25T05:33:09.597</Modified>
+      <Modified>2024-08-31T13:03:28.294</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\Resources\Raw\splash.svg">
+      <PackagePath>splash.svg</PackagePath>
+      <Modified>2024-08-31T14:18:46.788</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\logoSplashScreen.scale-100.png">
+      <PackagePath>logoSplashScreen.scale-100.png</PackagePath>
+      <Modified>2024-08-31T14:27:14.670</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\logoSplashScreen.scale-125.png">
+      <PackagePath>logoSplashScreen.scale-125.png</PackagePath>
+      <Modified>2024-08-31T14:27:14.801</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\logoSplashScreen.scale-150.png">
+      <PackagePath>logoSplashScreen.scale-150.png</PackagePath>
+      <Modified>2024-08-31T14:27:14.975</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\logoSplashScreen.scale-200.png">
+      <PackagePath>logoSplashScreen.scale-200.png</PackagePath>
+      <Modified>2024-08-31T14:27:15.227</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\logoSplashScreen.scale-400.png">
+      <PackagePath>logoSplashScreen.scale-400.png</PackagePath>
+      <Modified>2024-08-31T14:27:16.244</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2024-08-25T05:33:12.050</Modified>
+      <Modified>2024-08-31T14:39:42.069</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2024-08-25T05:33:12.050</Modified>
+      <Modified>2024-08-31T14:39:42.167</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2024-08-25T05:33:12.052</Modified>
+      <Modified>2024-08-31T14:39:42.281</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2024-08-25T05:33:12.053</Modified>
+      <Modified>2024-08-31T14:39:42.470</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2024-08-25T05:33:12.053</Modified>
+      <Modified>2024-08-31T14:39:43.077</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
-      <Modified>2024-08-25T05:33:12.015</Modified>
+      <Modified>2024-08-31T13:03:30.436</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
-      <Modified>2024-08-25T05:33:12.017</Modified>
+      <Modified>2024-08-31T13:03:30.437</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2024-08-25T05:39:53.781</Modified>
+      <Modified>2024-08-31T14:19:45.499</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.771</Modified>
+      <Modified>2024-08-31T14:19:45.492</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.771</Modified>
+      <Modified>2024-08-31T14:19:45.491</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.771</Modified>
+      <Modified>2024-08-31T14:19:45.491</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.771</Modified>
+      <Modified>2024-08-31T14:19:45.491</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.771</Modified>
+      <Modified>2024-08-31T14:19:45.491</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.781</Modified>
+      <Modified>2024-08-31T14:19:45.496</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.781</Modified>
+      <Modified>2024-08-31T14:19:45.496</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.781</Modified>
+      <Modified>2024-08-31T14:19:45.495</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.781</Modified>
+      <Modified>2024-08-31T14:19:45.496</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.781</Modified>
+      <Modified>2024-08-31T14:19:45.495</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.781</Modified>
+      <Modified>2024-08-31T14:19:45.497</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.781</Modified>
+      <Modified>2024-08-31T14:19:45.497</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.781</Modified>
+      <Modified>2024-08-31T14:19:45.496</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.781</Modified>
+      <Modified>2024-08-31T14:19:45.497</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.781</Modified>
+      <Modified>2024-08-31T14:19:45.496</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.781</Modified>
+      <Modified>2024-08-31T14:19:45.499</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.781</Modified>
+      <Modified>2024-08-31T14:19:45.499</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.781</Modified>
+      <Modified>2024-08-31T14:19:45.499</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.781</Modified>
+      <Modified>2024-08-31T14:19:45.498</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.781</Modified>
+      <Modified>2024-08-31T14:19:45.498</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.781</Modified>
+      <Modified>2024-08-31T14:19:45.498</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.781</Modified>
+      <Modified>2024-08-31T14:19:45.498</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.781</Modified>
+      <Modified>2024-08-31T14:19:45.497</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.781</Modified>
+      <Modified>2024-08-31T14:19:45.498</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.781</Modified>
+      <Modified>2024-08-31T14:19:45.497</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.771</Modified>
+      <Modified>2024-08-31T14:19:45.493</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.771</Modified>
+      <Modified>2024-08-31T14:19:45.493</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.771</Modified>
+      <Modified>2024-08-31T14:19:45.493</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.771</Modified>
+      <Modified>2024-08-31T14:19:45.493</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.771</Modified>
+      <Modified>2024-08-31T14:19:45.493</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.779</Modified>
+      <Modified>2024-08-31T14:19:45.494</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.779</Modified>
+      <Modified>2024-08-31T14:19:45.494</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.779</Modified>
+      <Modified>2024-08-31T14:19:45.494</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.771</Modified>
+      <Modified>2024-08-31T14:19:45.494</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.771</Modified>
+      <Modified>2024-08-31T14:19:45.493</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.781</Modified>
+      <Modified>2024-08-31T14:19:45.495</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.781</Modified>
+      <Modified>2024-08-31T14:19:45.495</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.781</Modified>
+      <Modified>2024-08-31T14:19:45.495</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.779</Modified>
+      <Modified>2024-08-31T14:19:45.494</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.779</Modified>
+      <Modified>2024-08-31T14:19:45.494</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.771</Modified>
+      <Modified>2024-08-31T14:19:45.493</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.771</Modified>
+      <Modified>2024-08-31T14:19:45.492</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.771</Modified>
+      <Modified>2024-08-31T14:19:45.492</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.771</Modified>
+      <Modified>2024-08-31T14:19:45.492</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.771</Modified>
+      <Modified>2024-08-31T14:19:45.492</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.781</Modified>
+      <Modified>2024-08-31T14:19:45.491</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.781</Modified>
+      <Modified>2024-08-31T14:19:45.490</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.781</Modified>
+      <Modified>2024-08-31T14:19:45.490</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.781</Modified>
+      <Modified>2024-08-31T14:19:45.490</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.781</Modified>
+      <Modified>2024-08-31T14:19:45.490</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\splash_screen.scale-100.png">
-      <PackagePath>splash_screen.scale-100.png</PackagePath>
-      <Modified>2024-08-25T05:39:53.771</Modified>
+    <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\ellipse.scale-100.png">
+      <PackagePath>ellipse.scale-100.png</PackagePath>
+      <Modified>2024-08-31T14:19:45.490</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo.scale-100.png">
+      <PackagePath>logo.scale-100.png</PackagePath>
+      <Modified>2024-08-31T14:19:45.489</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\QuizWhiz.deps.json">
       <PackagePath>QuizWhiz.deps.json</PackagePath>
-      <Modified>2024-08-25T05:33:55.545</Modified>
+      <Modified>2024-08-31T14:41:41.031</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.34\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
