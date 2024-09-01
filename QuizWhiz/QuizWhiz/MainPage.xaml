@@ -43,6 +43,12 @@
                     FontAttributes="Bold"
                     HorizontalOptions="Center"
                     TextColor="#38B6FF"/>
+                
+                <Label
+                    Text="Welcome to .NET MAUI!"
+                    SemanticProperties.HeadingLevel="Level1"
+                    FontSize="32"
+                    HorizontalOptions="Center" />
 
                 <Label
                     Text="Sign in to your account"
@@ -75,6 +81,7 @@
             Grid.Row="2"
             VerticalOptions="End"
             HorizontalOptions="Center" />
+
 
     </Grid>
 
