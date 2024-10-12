@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="QuizWhiz.Pages.HomePage.HomePage"
+             Title="HomePage"
+             BackgroundColor="White">
+    <VerticalStackLayout>
+
+        <Grid
+            Margin="5,10,10,0">
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+
+            <HorizontalStackLayout
+                Grid.Column="1">
+                <Image
+                Source="account.png"
+                WidthRequest="55"
+                HeightRequest="35"/>
+
+                <VerticalStackLayout
+                VerticalOptions="Center">
+                    <Label
+                    Text="Name Here"
+                    FontSize="16"
+                    TextColor="#000000"
+                    FontAttributes="Bold"/>
+
+                    <HorizontalStackLayout>
+                        <Label
+                        Text="ID-" 
+                        FontSize="12"
+                        TextColor="#000000"/>
+
+                        <Label
+                        Text="idhere" 
+                        FontSize="12"
+                        TextColor="#000000"/>
+                    </HorizontalStackLayout>
+                    
+                </VerticalStackLayout>
+
+            </HorizontalStackLayout>
+
+            <HorizontalStackLayout
+                Grid.Column="2">
+                
+                <ImageButton
+                Source="history.png"
+                WidthRequest="45"
+                HeightRequest="25"/>
+
+                <ImageButton
+                Source="notification.png"
+                Clicked="OpenNotificationPage_Clicked"
+                WidthRequest="45"
+                HeightRequest="25"/>
+
+                <ImageButton
+                Source="settings.png"
+                WidthRequest="45"
+                HeightRequest="25"/>
+            </HorizontalStackLayout>
+
+        </Grid>
+
+        <Frame
+            BackgroundColor="#0F469A"
+            Margin="25">
+
+            <VerticalStackLayout>
+                <Label
+                Text="Create Quiz!"
+                FontSize="25"
+                TextColor="White"
+                FontAttributes="Bold"
+                HorizontalOptions="Center"
+                Margin="0,5,0,10"/>
+
+                <Label
+                Text="Make your own quizzes that will help humanity"
+                FontSize="16"
+                VerticalOptions="Center"
+                HorizontalTextAlignment="Center"
+                VerticalTextAlignment="Center"
+                TextColor="White"/>
+
+                <Button
+                Text="CREATE NOW"
+                BackgroundColor="White"
+                Margin="35,25,35,15"/>
+            </VerticalStackLayout>
+
+        </Frame>
+
+        <Label
+            Text="Quizzes"
+            FontSize="25"
+            TextColor="Black"
+            FontAttributes="Bold"
+            HorizontalOptions="Center"
+            Margin="0,0"/>
+
+        <SearchBar
+            Placeholder="Search Quizzes"
+            BackgroundColor="LightGray"
+            TextColor="Black"
+            Margin="20,10"/>
+
+        <!-- Mga quiz na ginawa -->
+        <CollectionView>
+            
+        </CollectionView>
+
+    </VerticalStackLayout>
+</ContentPage>

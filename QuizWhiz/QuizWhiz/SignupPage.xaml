@@ -137,7 +137,8 @@
                 Text="Sign up"
                 BackgroundColor="#38B6FF"
                 TextColor="White"
-                Margin="0,25,0,0"/>
+                Margin="0,25,0,0"
+                Clicked="OnSignupButtonClicked"/>
 
                 <Button 
                 Text="Back"

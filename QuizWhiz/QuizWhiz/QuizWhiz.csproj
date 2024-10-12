@@ -78,7 +78,10 @@
 
 
 	<ItemGroup>
-	  <MauiXaml Update="Pages\HomePage\HomePage.xaml">
+	  <MauiXaml Update="Pages\Home\HomePage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Pages\Notification\NotificationPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	  <MauiXaml Update="SignupPage.xaml">

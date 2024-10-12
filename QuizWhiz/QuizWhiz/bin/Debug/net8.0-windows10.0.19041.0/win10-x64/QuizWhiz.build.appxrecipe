@@ -79,6 +79,9 @@
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\account.scale-100.png">
+      <PackagePath>account.scale-100.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
     </AppxPackagedFile>
@@ -235,8 +238,17 @@
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\ellipse.scale-100.png">
       <PackagePath>ellipse.scale-100.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\history.scale-100.png">
+      <PackagePath>history.scale-100.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo.scale-100.png">
       <PackagePath>logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\notification.scale-100.png">
+      <PackagePath>notification.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\settings.scale-100.png">
+      <PackagePath>settings.scale-100.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\QuizWhiz.deps.json">
       <PackagePath>QuizWhiz.deps.json</PackagePath>
