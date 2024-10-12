@@ -13,13 +13,13 @@ public partial class Signup : ContentPage
     private async void OnBackButtonClicked(object sender, EventArgs e)
     {
         // Navigate back to MainPage
-        await Shell.Current.GoToAsync("//MainPage");
+        await Navigation.PopAsync();
     }
 
     private async void OnSignupButtonClicked(object sender, EventArgs e)
     {
         // Navigate back to MainPage
-        await Shell.Current.GoToAsync("//MainPage");
+        await Navigation.PopAsync();
 
         // Show a toast message
         var toast = Toast.Make("Account created successfully!", ToastDuration.Short);
