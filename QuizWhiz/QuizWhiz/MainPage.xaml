@@ -93,13 +93,14 @@
 
                 <Button 
                     Text="Login"
+                    Clicked="OpenHomePage_Clicked"
                     BackgroundColor="#38B6FF"
                     TextColor="White"
                     Margin="0,25,0,0"/>
 
                 <Button 
                     Text="Create Account"
-                    Clicked="OpenSignupActivity_Clicked"
+                    Clicked="OpenSignupPage_Clicked"
                     BackgroundColor="#38B6FF"
                     TextColor="White"
                     Margin="0,5,0,0"/>

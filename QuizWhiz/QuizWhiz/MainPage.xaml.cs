@@ -1,5 +1,8 @@
 ﻿namespace QuizWhiz
 {
+    using CommunityToolkit.Maui.Alerts;
+    using CommunityToolkit.Maui.Core;
+
     public partial class MainPage : ContentPage
     {
         int count = 0;
@@ -9,11 +12,21 @@
             InitializeComponent();
         }
 
-        private async void OpenSignupActivity_Clicked(object sender, EventArgs e)
+        private async void OpenSignupPage_Clicked(object sender, EventArgs e)
         {
+            //Navigate to SignUpPage
             await Navigation.PushAsync(new Signup());
         }
 
+        private async void OpenHomePage_Clicked(object sender, EventArgs e)
+        {
+            //Navigate to HomePage
+            await Navigation.PushAsync(new QuizWhiz.Pages.HomePage.HomePage());
+
+            // Show a toast message
+            var toast = Toast.Make("Login Successfully", ToastDuration.Short);
+            await toast.Show();
+        }
 
     }
 

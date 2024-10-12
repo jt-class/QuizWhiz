@@ -549,3 +549,6 @@ C:\Users\yajeee\Desktop\git\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows1
 C:\Users\yajeee\Desktop\git\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\yajeee\Desktop\git\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\yajeee\Desktop\git\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Maui.dll
+C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Maui.Core.dll
+C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.Speech.dll
