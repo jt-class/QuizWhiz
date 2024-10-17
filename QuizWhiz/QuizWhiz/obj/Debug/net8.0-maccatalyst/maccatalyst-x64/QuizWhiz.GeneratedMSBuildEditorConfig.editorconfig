@@ -46,6 +46,18 @@ build_metadata.AdditionalFiles.ManifestResourceName = QuizWhiz.Pages.Notificatio
 build_metadata.AdditionalFiles.TargetPath = Pages\Notification\NotificationPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\Notification\NotificationPage.xaml
 
+[C:/Users/alber/OneDrive/Documents/GitHub/QuizWhiz/QuizWhiz/QuizWhiz/Pages/Profile/ProfilePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = QuizWhiz.Pages.Profile.ProfilePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Profile\ProfilePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Profile\ProfilePage.xaml
+
+[C:/Users/alber/OneDrive/Documents/GitHub/QuizWhiz/QuizWhiz/QuizWhiz/Pages/Settings/SettingsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = QuizWhiz.Pages.Settings.SettingsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Settings\SettingsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Settings\SettingsPage.xaml
+
 [C:/Users/alber/OneDrive/Documents/GitHub/QuizWhiz/QuizWhiz/QuizWhiz/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = QuizWhiz.Resources.Styles.Colors.xaml

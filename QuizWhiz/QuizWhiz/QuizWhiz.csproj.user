@@ -17,6 +17,12 @@
     <MauiXaml Update="Pages\Notification\NotificationPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
+    <MauiXaml Update="Pages\Profile\ProfilePage.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="Pages\Settings\SettingsPage.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
     <MauiXaml Update="SignupPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>

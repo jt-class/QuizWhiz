@@ -43,21 +43,6 @@
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\Resources\Raw\splash.svg">
       <PackagePath>splash.svg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\logoSplashScreen.scale-100.png">
-      <PackagePath>logoSplashScreen.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\logoSplashScreen.scale-125.png">
-      <PackagePath>logoSplashScreen.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\logoSplashScreen.scale-150.png">
-      <PackagePath>logoSplashScreen.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\logoSplashScreen.scale-200.png">
-      <PackagePath>logoSplashScreen.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\logoSplashScreen.scale-400.png">
-      <PackagePath>logoSplashScreen.scale-400.png</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
     </AppxPackagedFile>
@@ -219,6 +204,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\back.scale-100.png">
+      <PackagePath>back.scale-100.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>

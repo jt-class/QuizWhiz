@@ -18,8 +18,9 @@
             <HorizontalStackLayout
                 Grid.Column="1">
                 
-                <Image
+                <ImageButton
                 Source="account.png"
+                Clicked="OpenProfilePage_Clicked"
                 WidthRequest="55"
                 HeightRequest="35"/>
 
@@ -67,6 +68,7 @@
 
                 <ImageButton
                 Source="settings.png"
+                Clicked="OpenSettingsPage_Clicked"
                 WidthRequest="55"
                 HeightRequest="35"
                 MinimumWidthRequest="55"

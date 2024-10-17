@@ -4,17 +4,28 @@
              x:Class="QuizWhiz.Pages.Notification.NotificationPage"
              Title="NotificationPage"
              Background="White">
+
     <VerticalStackLayout
         Margin="0,25,0,0">
-        
-        
-        <Label 
+
+        <Grid>
+            <ImageButton
+            Source="back.png"
+            Clicked="OnBackButtonClicked"
+            WidthRequest="55"
+            HeightRequest="35"
+            HorizontalOptions="Start"
+            VerticalOptions="Start"
+            Margin="10,0,0,0"/>
+
+            <Label 
             Text="NOTIFICATIONS"
             TextColor="Black"
             FontSize="25"
             FontAttributes="Bold"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
+            HorizontalOptions="Center"
+            VerticalOptions="Center" />
+        </Grid>
 
         <!-- Mga notification -->
         <CollectionView>

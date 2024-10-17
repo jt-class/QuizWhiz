@@ -6,4 +6,10 @@ public partial class NotificationPage : ContentPage
 	{
 		InitializeComponent();
 	}
+
+    private async void OnBackButtonClicked(object sender, EventArgs e)
+    {
+        // Navigate back to MainPage
+        await Navigation.PopAsync();
+    }
 }

@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\alber\\onedrive\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\signuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\signuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuizWhiz\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\alber\\onedrive\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\alber\\onedrive\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\pages\\profile\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\pages\\profile\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\alber\\onedrive\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\pages\\home\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\pages\\home\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\alber\\onedrive\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\pages\\home\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\pages\\home\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\alber\\onedrive\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\pages\\profile\\profilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\pages\\profile\\profilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\alber\\onedrive\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,24 +31,16 @@
       "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\alber\\onedrive\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\pages\\home\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\pages\\home\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\alber\\onedrive\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\pages\\settings\\settingspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\pages\\settings\\settingspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\alber\\onedrive\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\alber\\onedrive\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\pages\\home\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\pages\\home\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\alber\\onedrive\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\pages\\settings\\settingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\pages\\settings\\settingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\alber\\onedrive\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\pages\\notification\\notificationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\pages\\notification\\notificationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\alber\\onedrive\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\pages\\notification\\notificationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\pages\\notification\\notificationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,124 +50,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "QuizWhiz\\MauiProgram.cs",
-              "ToolTip": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\MauiProgram.cs",
-              "RelativeToolTip": "QuizWhiz\\MauiProgram.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBMAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "QuizWhiz\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "QuizWhiz\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAawEoAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T02:06:30.577Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "QuizWhiz\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\MainPage.xaml.cs",
-              "RelativeToolTip": "QuizWhiz\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T01:53:09.759Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HomePage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Home\\HomePage.xaml.cs",
-              "RelativeDocumentMoniker": "QuizWhiz\\Pages\\Home\\HomePage.xaml.cs",
-              "ToolTip": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Home\\HomePage.xaml.cs",
-              "RelativeToolTip": "QuizWhiz\\Pages\\Home\\HomePage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T01:52:41.998Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomePage.xaml",
-              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Home\\HomePage.xaml",
-              "RelativeDocumentMoniker": "QuizWhiz\\Pages\\Home\\HomePage.xaml",
-              "ToolTip": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Home\\HomePage.xaml",
-              "RelativeToolTip": "QuizWhiz\\Pages\\Home\\HomePage.xaml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-12T01:52:38.234Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\MainPage.xaml",
-              "RelativeDocumentMoniker": "QuizWhiz\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\MainPage.xaml",
-              "RelativeToolTip": "QuizWhiz\\MainPage.xaml",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-12T01:53:03.589Z",
+              "WhenOpened": "2024-10-17T10:09:05.317Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SignupPage.xaml",
-              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\SignupPage.xaml",
-              "RelativeDocumentMoniker": "QuizWhiz\\SignupPage.xaml",
-              "ToolTip": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\SignupPage.xaml",
-              "RelativeToolTip": "QuizWhiz\\SignupPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Title": "ProfilePage.xaml",
+              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Profile\\ProfilePage.xaml",
+              "RelativeDocumentMoniker": "QuizWhiz\\Pages\\Profile\\ProfilePage.xaml",
+              "ToolTip": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Profile\\ProfilePage.xaml",
+              "RelativeToolTip": "QuizWhiz\\Pages\\Profile\\ProfilePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-12T01:47:35.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T07:54:58.403Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "NotificationPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Notification\\NotificationPage.xaml.cs",
-              "RelativeDocumentMoniker": "QuizWhiz\\Pages\\Notification\\NotificationPage.xaml.cs",
-              "ToolTip": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Notification\\NotificationPage.xaml.cs",
-              "RelativeToolTip": "QuizWhiz\\Pages\\Notification\\NotificationPage.xaml.cs",
+              "DocumentIndex": 4,
+              "Title": "ProfilePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Profile\\ProfilePage.xaml.cs",
+              "RelativeDocumentMoniker": "QuizWhiz\\Pages\\Profile\\ProfilePage.xaml.cs",
+              "ToolTip": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Profile\\ProfilePage.xaml.cs",
+              "RelativeToolTip": "QuizWhiz\\Pages\\Profile\\ProfilePage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T04:42:57.695Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T08:29:41.002Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SignupPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\SignupPage.xaml.cs",
-              "RelativeDocumentMoniker": "QuizWhiz\\SignupPage.xaml.cs",
-              "ToolTip": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\SignupPage.xaml.cs",
-              "RelativeToolTip": "QuizWhiz\\SignupPage.xaml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "QuizWhiz\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\MainPage.xaml.cs",
+              "RelativeToolTip": "QuizWhiz\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T01:51:09.921Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T08:19:06.101Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\MainPage.xaml",
+              "RelativeDocumentMoniker": "QuizWhiz\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\MainPage.xaml",
+              "RelativeToolTip": "QuizWhiz\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-17T08:19:03.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "NotificationPage.xaml",
               "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Notification\\NotificationPage.xaml",
               "RelativeDocumentMoniker": "QuizWhiz\\Pages\\Notification\\NotificationPage.xaml",
               "ToolTip": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Notification\\NotificationPage.xaml",
               "RelativeToolTip": "QuizWhiz\\Pages\\Notification\\NotificationPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-12T04:36:27.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T07:58:54.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SettingsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Settings\\SettingsPage.xaml.cs",
+              "RelativeDocumentMoniker": "QuizWhiz\\Pages\\Settings\\SettingsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Settings\\SettingsPage.xaml.cs",
+              "RelativeToolTip": "QuizWhiz\\Pages\\Settings\\SettingsPage.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvxIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:58:25.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Home\\HomePage.xaml",
+              "RelativeDocumentMoniker": "QuizWhiz\\Pages\\Home\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Home\\HomePage.xaml",
+              "RelativeToolTip": "QuizWhiz\\Pages\\Home\\HomePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-12T01:52:38.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SettingsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Settings\\SettingsPage.xaml",
+              "RelativeDocumentMoniker": "QuizWhiz\\Pages\\Settings\\SettingsPage.xaml",
+              "ToolTip": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Settings\\SettingsPage.xaml",
+              "RelativeToolTip": "QuizWhiz\\Pages\\Settings\\SettingsPage.xaml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwCMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-17T07:57:24.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Home\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "QuizWhiz\\Pages\\Home\\HomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Home\\HomePage.xaml.cs",
+              "RelativeToolTip": "QuizWhiz\\Pages\\Home\\HomePage.xaml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T01:52:41.998Z"
             }
           ]
         }
