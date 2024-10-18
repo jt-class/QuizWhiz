@@ -26,59 +26,100 @@
         </Grid>
 
         <ImageButton
+            x:Name="profilePhoto"
             Source="account.png"
-            HeightRequest="250"
-            WidthRequest="250"
-            Margin="0,50,0,30"/>
+            IsEnabled="False"
+            Clicked="OnPhotoEditClicked"
+            Opacity="1"
+            HeightRequest="200"
+            WidthRequest="200"
+            Margin="0,50,0,5"/>
 
         <Label
-            Text="John Doe"
+            x:Name="editPhoto"
+            Text="UPLOAD PHOTO"
+            IsVisible="Hidden"
+            FontSize="12"
+            TextColor="Blue"
+            HorizontalOptions="Center">
+            <Label.GestureRecognizers>
+                <TapGestureRecognizer 
+                    Tapped="OnPhotoEditClicked" 
+                    NumberOfTapsRequired="1"/>
+            </Label.GestureRecognizers>
+        </Label>
+
+        <Label
+            Text="Name"
             FontAttributes="Bold"
             TextColor="Black"
-            FontSize="25"
-            Margin="50,0,0,3"/>
+            FontSize="15"
+            Margin="50,15,0,3"/>
+        <Entry
+            x:Name="entryFirstName"
+            Background="DarkGray"
+            IsEnabled="False"
+            WidthRequest="450"
+            FontSize="18"
+            Text="John"
+            TextColor="Black"/>
 
         <Label
-            Text="example@email.com"
+            Text="Surname"
+            FontAttributes="Bold"
             TextColor="Black"
+            FontSize="15"
+            Margin="50,15,0,3"/>
+        <Entry
+            x:Name="entrySurname"
+            Background="DarkGray"
+            IsEnabled="False"
+            WidthRequest="450"
             FontSize="18"
-            Margin="50,0,0,3"/>
-
-        <HorizontalStackLayout
-            Margin="50,0,0,3">
-            <Label
-            Text="UID:"
-            TextColor="Black"
-            FontSize="18"
-            Margin="0,0,3,0"/>
-
-            <Label
-            Text="123456789"
-            TextColor="Black"
-            FontSize="18"/>
-        </HorizontalStackLayout>
+            Text="Doe"
+            TextColor="Black"/>
 
         <Label
             Text="BIO:"
             TextColor="Black"
             FontAttributes="Bold"
             FontSize="18"
-            Margin="50,30,0,3"/>
+            Margin="50,15,0,3"/>
+
+        <Editor
+            x:Name="entryBio"
+            BackgroundColor="DarkGray"
+            IsEnabled="False"
+            WidthRequest="450"
+            FontSize="18"
+            HeightRequest="200"
+            Text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+            TextColor="Black"
+            AutoSize="TextChanges" />
+
 
         <Label
-            Text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
             TextColor="Black"
             FontSize="18"
             Margin="50,0,50,3"/>
 
         <Button
-            Text="EDIT PROFILE"
+            x:Name="updateProfileBtn"
+            IsVisible="Hidden"
+            Text="ACCEPT CHANGES"
+            Clicked="OnEditProfileClicked"
             TextColor="White"
             BackgroundColor="#0F469A"
             HeightRequest="50"
-            Margin="80,30,80,0"/>
+            Margin="80,15,80,0"/>
 
-
-
+        <Button
+            x:Name="editProfileBtn"
+            Text="EDIT PROFILE"
+            Clicked="OnEditProfileClicked"
+            TextColor="White"
+            BackgroundColor="#0F469A"
+            HeightRequest="50"
+            Margin="80,15,80,0"/>
     </VerticalStackLayout>
 </ContentPage>
