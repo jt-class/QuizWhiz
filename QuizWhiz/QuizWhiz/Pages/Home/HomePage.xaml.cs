@@ -1,36 +1,38 @@
 using CommunityToolkit.Maui.Alerts;
 using CommunityToolkit.Maui.Core;
+using System.Collections.ObjectModel;
+using System.Windows.Input;
 
 namespace QuizWhiz.Pages.HomePage;
 
 public partial class HomePage : ContentPage
 {
-	public HomePage()
-	{
-		InitializeComponent();
-	}
+    public QuizViewModel ViewModel { get; set; }
 
-	public async void OpenNotificationPage_Clicked(object sender, EventArgs e)
-	{
-        //Navigate to HomePage
+    public HomePage()
+    {
+        InitializeComponent();
+        ViewModel = new QuizViewModel();
+        BindingContext = ViewModel;
+    }
+
+    public async void OpenNotificationPage_Clicked(object sender, EventArgs e)
+    {
         await Navigation.PushAsync(new QuizWhiz.Pages.Notification.NotificationPage());
     }
 
     public async void OpenProfilePage_Clicked(object sender, EventArgs e)
     {
-        //Navigate to Profile
         await Navigation.PushAsync(new QuizWhiz.Pages.Profile.ProfilePage());
     }
 
     public async void OpenSettingsPage_Clicked(object sender, EventArgs e)
     {
-        //Navigate to Settings
         await Navigation.PushAsync(new QuizWhiz.Pages.Settings.SettingsPage());
     }
 
     public async void OpenHistoryPage_Clicked(object sender, EventArgs e)
     {
-        //Navigate to Settings
         await Navigation.PushAsync(new QuizWhiz.Pages.History.HistoryPage());
     }
 
@@ -66,4 +68,36 @@ public partial class HomePage : ContentPage
 
         return true; // Prevent default back button action
     }
+}
+
+public class QuizViewModel
+{
+    public ObservableCollection<Quiz> Quizzes { get; set; }
+    public ICommand ViewQuizCommand { get; set; }
+
+    public QuizViewModel()
+    {
+        Quizzes = new ObservableCollection<Quiz>
+        {
+            new Quiz { Title = "Sample Quiz 1", Description = "Description for Quiz 1", CreatedDate = DateTime.Now },
+            new Quiz { Title = "Sample Quiz 2", Description = "Description for Quiz 2", CreatedDate = DateTime.Now.AddDays(-1) },
+            new Quiz { Title = "Sample Quiz 3", Description = "Description for Quiz 3", CreatedDate = DateTime.Now.AddDays(-2) },
+            new Quiz { Title = "Sample Quiz 4", Description = "Description for Quiz 4", CreatedDate = DateTime.Now.AddDays(-3) }
+            // Add more quizzes after integration ng database na siguro
+        };
+        ViewQuizCommand = new Command<Quiz>(OnViewQuiz);
+    }
+
+    private async void OnViewQuiz(Quiz quiz)
+    {
+        // Logic to navigate to quiz details page
+        //await Application.Current.MainPage.Navigation.PushAsync(new QuizDetailsPage(quiz));
+    }
+}
+
+public class Quiz
+{
+    public string Title { get; set; }
+    public string Description { get; set; }
+    public DateTime CreatedDate { get; set; }
 }

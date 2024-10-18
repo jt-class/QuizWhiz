@@ -1,0 +1,83 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-android34.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = QuizWhiz
+build_property.ProjectDir = C:\Users\Ben & Cem\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/Ben & Cem/Documents/GitHub/QuizWhiz/QuizWhiz/QuizWhiz/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = QuizWhiz.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/Ben & Cem/Documents/GitHub/QuizWhiz/QuizWhiz/QuizWhiz/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = QuizWhiz.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/Ben & Cem/Documents/GitHub/QuizWhiz/QuizWhiz/QuizWhiz/LoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = QuizWhiz.LoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = LoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = LoginPage.xaml
+
+[C:/Users/Ben & Cem/Documents/GitHub/QuizWhiz/QuizWhiz/QuizWhiz/Pages/History/HistoryPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = QuizWhiz.Pages.History.HistoryPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\History\HistoryPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\History\HistoryPage.xaml
+
+[C:/Users/Ben & Cem/Documents/GitHub/QuizWhiz/QuizWhiz/QuizWhiz/Pages/Home/HomePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = QuizWhiz.Pages.Home.HomePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Home\HomePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Home\HomePage.xaml
+
+[C:/Users/Ben & Cem/Documents/GitHub/QuizWhiz/QuizWhiz/QuizWhiz/Pages/Notification/NotificationPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = QuizWhiz.Pages.Notification.NotificationPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Notification\NotificationPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Notification\NotificationPage.xaml
+
+[C:/Users/Ben & Cem/Documents/GitHub/QuizWhiz/QuizWhiz/QuizWhiz/Pages/Profile/ProfilePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = QuizWhiz.Pages.Profile.ProfilePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Profile\ProfilePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Profile\ProfilePage.xaml
+
+[C:/Users/Ben & Cem/Documents/GitHub/QuizWhiz/QuizWhiz/QuizWhiz/Pages/Settings/SettingsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = QuizWhiz.Pages.Settings.SettingsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Settings\SettingsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Settings\SettingsPage.xaml
+
+[C:/Users/Ben & Cem/Documents/GitHub/QuizWhiz/QuizWhiz/QuizWhiz/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = QuizWhiz.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/Ben & Cem/Documents/GitHub/QuizWhiz/QuizWhiz/QuizWhiz/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = QuizWhiz.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/Ben & Cem/Documents/GitHub/QuizWhiz/QuizWhiz/QuizWhiz/SignupPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = QuizWhiz.SignupPage.xaml
+build_metadata.AdditionalFiles.TargetPath = SignupPage.xaml
+build_metadata.AdditionalFiles.RelativePath = SignupPage.xaml

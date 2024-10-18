@@ -123,25 +123,43 @@
             TextColor="Black"
             Margin="20,10"/>
 
-        <VerticalStackLayout
-            VerticalOptions="FillAndExpand"
-            HorizontalOptions="Fill"
-            HeightRequest="520">
+        <ScrollView>
+            <VerticalStackLayout>
+                <CollectionView ItemsSource="{Binding Quizzes}" Margin="20,10" HeightRequest="400">
+                    <CollectionView.ItemTemplate>
+                        <DataTemplate>
+                            <Frame Margin="5" Padding="10" BackgroundColor="White" CornerRadius="10" HasShadow="True">
+                                <VerticalStackLayout>
+                                    <Label Text="{Binding Title}" 
+                                   FontSize="18" 
+                                   FontAttributes="Bold" 
+                                   TextColor="Black" 
+                                   LineBreakMode="TailTruncation" />
 
-            <Label
-                Text="No quiz created yet."
-                FontSize="18"
-                TextColor="DimGray"
-                HorizontalOptions="Center"
-                VerticalOptions="CenterAndExpand"
-                Margin="0,200,0,0"/>
+                                    <Label Text="{Binding Description}" 
+                                   FontSize="14" 
+                                   TextColor="Gray" 
+                                   LineBreakMode="TailTruncation" />
 
-            <!-- Mga quiz na ginawa -->
-            <CollectionView>
-                
-            </CollectionView>
+                                    <HorizontalStackLayout HorizontalOptions="End" Margin="0,10,0,0">
+                                        <Label Text="{Binding CreatedDate, StringFormat='Created on: {0:MMMM d, yyyy}'}" 
+                                       FontSize="12" 
+                                       TextColor="DimGray"/>
+                                        <Button Text="View" 
+                                        BackgroundColor="#0F469A" 
+                                        TextColor="White" 
+                                        Margin="10,0,0,0" 
+                                        Command="{Binding Source={x:Reference Name=YourCollectionViewName}, Path=BindingContext.ViewQuizCommand}" 
+                                        CommandParameter="{Binding .}"/>
+                                    </HorizontalStackLayout>
+                                </VerticalStackLayout>
+                            </Frame>
+                        </DataTemplate>
+                    </CollectionView.ItemTemplate>
+                </CollectionView>
+            </VerticalStackLayout>
+        </ScrollView>
 
-        </VerticalStackLayout>
 
     </VerticalStackLayout>
 </ContentPage>
