@@ -18,8 +18,4 @@ public partial class SettingsPage : ContentPage
         // Navigate back to Login Page
         await Navigation.PushAsync(new MainPage());
     }
-
-
-
-
 }

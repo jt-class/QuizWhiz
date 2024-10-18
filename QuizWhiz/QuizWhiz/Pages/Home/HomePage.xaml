@@ -53,6 +53,7 @@
 
                 <ImageButton
                 Source="history.png"
+                Clicked="OpenHistoryPage_Clicked"
                 WidthRequest="55"
                 HeightRequest="35"
                 MinimumWidthRequest="55"
@@ -122,10 +123,25 @@
             TextColor="Black"
             Margin="20,10"/>
 
-        <!-- Mga quiz na ginawa -->
-        <CollectionView>
-            
-        </CollectionView>
+        <VerticalStackLayout
+            VerticalOptions="FillAndExpand"
+            HorizontalOptions="Fill"
+            HeightRequest="520">
+
+            <Label
+                Text="No quiz created yet."
+                FontSize="18"
+                TextColor="DimGray"
+                HorizontalOptions="Center"
+                VerticalOptions="CenterAndExpand"
+                Margin="0,200,0,0"/>
+
+            <!-- Mga quiz na ginawa -->
+            <CollectionView>
+                
+            </CollectionView>
+
+        </VerticalStackLayout>
 
     </VerticalStackLayout>
 </ContentPage>

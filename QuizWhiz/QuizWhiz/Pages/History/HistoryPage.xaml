@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="QuizWhiz.Pages.Notification.NotificationPage"
-             Title="NotificationPage"
-             Background="White">
-
+             x:Class="QuizWhiz.Pages.History.HistoryPage"
+             Title="HistoryPage"
+             Background="white">
     <VerticalStackLayout
         Margin="0,25,0,0">
 
@@ -19,7 +18,7 @@
             Margin="10,0,0,0"/>
 
             <Label 
-            Text="NOTIFICATIONS"
+            Text="HISTORY"
             TextColor="Black"
             FontSize="25"
             FontAttributes="Bold"
@@ -28,28 +27,23 @@
         </Grid>
 
         <Image
-            Source="notification1.png"
+            Source="history1.png"
             WidthRequest="130"
             HeightRequest="130"
             Margin="0,250,0,0"/>
 
         <Label
-            Text="No notifications yet"
+            Text="No quiz taken yet"
             FontAttributes="Bold"
             TextColor="Gray"
             FontSize="25"
             HorizontalOptions="Center"/>
 
         <Label
-            Text="When you get a notification, they'll show up here."
+            Text="When you take a quiz, they'll show up here."
             TextColor="Gray"
             FontSize="18"
             HorizontalOptions="Center"
             HorizontalTextAlignment="Center"/>
-
-        <!-- Mga notification -->
-        <CollectionView>
-            
-        </CollectionView>
     </VerticalStackLayout>
 </ContentPage>

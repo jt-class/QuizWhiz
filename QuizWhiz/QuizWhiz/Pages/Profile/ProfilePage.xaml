@@ -4,16 +4,80 @@
              x:Class="QuizWhiz.Pages.Profile.ProfilePage"
              Title="ProfilePage"
              Background="White">
-    <VerticalStackLayout>
+    <VerticalStackLayout
+        Margin="0,25,0,0">
+
+        <Grid>
+            <ImageButton
+                Source="back.png"
+                Clicked="OnBackButtonClicked"
+                WidthRequest="55"
+                HeightRequest="35"
+                HorizontalOptions="Start"
+                Margin="10,0,0,0"/>
+
+            <Label 
+                Text="PROFILE"
+                TextColor="Black"
+                FontSize="25"
+                FontAttributes="Bold"
+                HorizontalOptions="Center"
+                VerticalOptions="Center" />
+        </Grid>
+
+        <ImageButton
+            Source="account.png"
+            HeightRequest="250"
+            WidthRequest="250"
+            Margin="0,50,0,30"/>
+
         <Label
-            Text="User's Name"
+            Text="John Doe"
+            FontAttributes="Bold"
+            TextColor="Black"
             FontSize="25"
+            Margin="50,0,0,3"/>
+
+        <Label
+            Text="example@email.com"
+            TextColor="Black"
+            FontSize="18"
+            Margin="50,0,0,3"/>
+
+        <HorizontalStackLayout
+            Margin="50,0,0,3">
+            <Label
+            Text="UID:"
+            TextColor="Black"
+            FontSize="18"
+            Margin="0,0,3,0"/>
+
+            <Label
+            Text="123456789"
+            TextColor="Black"
+            FontSize="18"/>
+        </HorizontalStackLayout>
+
+        <Label
+            Text="BIO:"
             TextColor="Black"
             FontAttributes="Bold"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center"
-            Margin="0,50,0,0"/>
-        
+            FontSize="18"
+            Margin="50,30,0,3"/>
+
+        <Label
+            Text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+            TextColor="Black"
+            FontSize="18"
+            Margin="50,0,50,3"/>
+
+        <Button
+            Text="EDIT PROFILE"
+            TextColor="White"
+            BackgroundColor="#0F469A"
+            HeightRequest="50"
+            Margin="80,30,80,0"/>
+
 
 
     </VerticalStackLayout>

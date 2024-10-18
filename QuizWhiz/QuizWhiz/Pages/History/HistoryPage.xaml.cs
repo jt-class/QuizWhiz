@@ -1,12 +1,11 @@
-namespace QuizWhiz.Pages.Profile;
+namespace QuizWhiz.Pages.History;
 
-public partial class ProfilePage : ContentPage
+public partial class HistoryPage : ContentPage
 {
-	public ProfilePage()
+	public HistoryPage()
 	{
 		InitializeComponent();
 	}
-
     private async void OnBackButtonClicked(object sender, EventArgs e)
     {
         // Navigate back to MainPage

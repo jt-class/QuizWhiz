@@ -229,11 +229,17 @@
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\history.scale-100.png">
       <PackagePath>history.scale-100.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\history1.scale-100.png">
+      <PackagePath>history1.scale-100.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo.scale-100.png">
       <PackagePath>logo.scale-100.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\notification.scale-100.png">
       <PackagePath>notification.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\notification1.scale-100.png">
+      <PackagePath>notification1.scale-100.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\settings.scale-100.png">
       <PackagePath>settings.scale-100.png</PackagePath>
