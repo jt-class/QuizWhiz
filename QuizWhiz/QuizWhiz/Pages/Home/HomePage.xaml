@@ -17,7 +17,7 @@
 
             <HorizontalStackLayout
                 Grid.Column="1">
-                
+
                 <ImageButton
                 Source="account.png"
                 Clicked="OpenProfilePage_Clicked"
@@ -43,7 +43,7 @@
                         FontSize="12"
                         TextColor="#000000"/>
                     </HorizontalStackLayout>
-                    
+
                 </VerticalStackLayout>
 
             </HorizontalStackLayout>
@@ -82,7 +82,7 @@
 
         <Frame
             BackgroundColor="#0F469A"
-            Margin="15">
+            Margin="10">
 
             <VerticalStackLayout>
                 <Label
@@ -131,44 +131,53 @@
                 BackgroundColor="Transparent"/>
         </Frame>
 
+        <CollectionView 
+            ItemsSource="{Binding Quizzes}" 
+            Margin="15" 
+            HeightRequest="400" 
+            VerticalOptions="Start">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Frame 
+                        Margin="0,0,0,8" 
+                        Padding="10" 
+                        BackgroundColor="White" 
+                        CornerRadius="10" 
+                        HasShadow="True">
+                        <VerticalStackLayout>
+                            <Label 
+                                Text="{Binding Title}" 
+                                FontSize="18" 
+                                FontAttributes="Bold" 
+                                TextColor="Black" 
+                                LineBreakMode="TailTruncation" />
 
-        <ScrollView>
-            <VerticalStackLayout>
-                <CollectionView ItemsSource="{Binding Quizzes}" Margin="15">
-                    <CollectionView.ItemTemplate>
-                        <DataTemplate>
-                            <Frame Margin="0,0,0,8" Padding="10" BackgroundColor="White" CornerRadius="10" HasShadow="True">
-                                <VerticalStackLayout>
-                                    <Label Text="{Binding Title}" 
-                                   FontSize="18" 
-                                   FontAttributes="Bold" 
-                                   TextColor="Black" 
-                                   LineBreakMode="TailTruncation" />
+                            <Label
+                                Text="{Binding Description}" 
+                                FontSize="14" 
+                                TextColor="Gray" 
+                                LineBreakMode="TailTruncation" />
 
-                                    <Label Text="{Binding Description}" 
-                                   FontSize="14" 
-                                   TextColor="Gray" 
-                                   LineBreakMode="TailTruncation" />
-
-                                    <HorizontalStackLayout HorizontalOptions="End" Margin="0,10,0,0">
-                                        <Label Text="{Binding CreatedDate, StringFormat='Created on: {0:MMMM d, yyyy}'}" 
-                                       FontSize="12" 
-                                       TextColor="DimGray"/>
-                                        <Button Text="View" 
-                                        BackgroundColor="#0F469A" 
-                                        TextColor="White" 
-                                        Margin="10,0,0,0" 
-                                        Command="{Binding Source={x:Reference Name=YourCollectionViewName}, Path=BindingContext.ViewQuizCommand}" 
-                                        CommandParameter="{Binding .}"/>
-                                    </HorizontalStackLayout>
-                                </VerticalStackLayout>
-                            </Frame>
-                        </DataTemplate>
-                    </CollectionView.ItemTemplate>
-                </CollectionView>
-            </VerticalStackLayout>
-        </ScrollView>
-
-
+                            <HorizontalStackLayout 
+                                HorizontalOptions="End" 
+                                Margin="0,10,0,0">
+                                <Label 
+                                    Text="{Binding CreatedDate, StringFormat='Created on: {0:MMMM d, yyyy}'}" 
+                                    FontSize="12" 
+                                    TextColor="DimGray"/>
+                                <Button 
+                                    Text="View" 
+                                    BackgroundColor="#0F469A" 
+                                    TextColor="White" 
+                                    Margin="10,0,0,0" 
+                                    Command="{Binding Source={x:Reference Name=YourCollectionViewName}, Path=BindingContext.ViewQuizCommand}" 
+                                    CommandParameter="{Binding .}"/>
+                            </HorizontalStackLayout>
+                        </VerticalStackLayout>
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+        
     </VerticalStackLayout>
 </ContentPage>

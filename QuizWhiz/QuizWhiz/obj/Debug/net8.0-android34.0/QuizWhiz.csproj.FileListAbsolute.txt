@@ -1033,7 +1033,6 @@ C:\Users\Ben & Cem\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-
 C:\Users\Ben & Cem\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-android34.0\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEndIconChangedListenerImplementor.java
 C:\Users\Ben & Cem\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-android34.0\android\src\mono\MonoPackageManager_Resources.java
 C:\Users\Ben & Cem\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-android34.0\android\bin\packaged_resources
-C:\Users\Ben & Cem\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-android34.0\android\src\com\companyname\quizwhiz\R.java
 C:\Users\Ben & Cem\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-android34.0\_CompileJava.FileList.txt
 C:\Users\Ben & Cem\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-android34.0\android\compressed_assemblies.arm64-v8a.ll
 C:\Users\Ben & Cem\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-android34.0\android\typemaps.arm64-v8a.o

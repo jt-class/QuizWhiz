@@ -85,10 +85,11 @@ public class QuizViewModel
     {
         Quizzes = new ObservableCollection<Quiz>
         {
-            new Quiz { Title = "Sample Quiz 1", Description = "Description for Quiz 1", CreatedDate = DateTime.Now },
-            new Quiz { Title = "Sample Quiz 2", Description = "Description for Quiz 2", CreatedDate = DateTime.Now.AddDays(-1) },
-            new Quiz { Title = "Sample Quiz 3", Description = "Description for Quiz 3", CreatedDate = DateTime.Now.AddDays(-2) },
-            new Quiz { Title = "Sample Quiz 4", Description = "Description for Quiz 4", CreatedDate = DateTime.Now.AddDays(-3) }
+            new Quiz { Title = "TOC Automata", Description = "kaya pa to Sting at BearBrand lang", CreatedDate = DateTime.Now },
+            new Quiz { Title = "Artificial Intelligence", Description = "papasa pa ba ko neto", CreatedDate = DateTime.Now.AddDays(-1) },
+            new Quiz { Title = "STS Midterms", Description = "kahit dito na lang pumasa wag na sakanya", CreatedDate = DateTime.Now.AddDays(+2) },
+            new Quiz { Title = "App Dev Prelim", Description = "Prelim Quiz Reviewer for Application Development", CreatedDate = DateTime.Now.AddDays(-3) },
+            new Quiz { Title = "IMP", Description = "IMP random Quiz", CreatedDate = DateTime.Now.AddDays(-3) }
             // Add more quizzes after integration ng database na siguro
         };
         ViewQuizCommand = new Command<Quiz>(OnViewQuiz);
