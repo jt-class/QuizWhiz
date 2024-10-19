@@ -1,4 +1,5 @@
-﻿using static Microsoft.Maui.Devices.DeviceDisplay;
+﻿using QuizWhiz.Pages.Create_Quiz;
+using static Microsoft.Maui.Devices.DeviceDisplay;
 
 namespace QuizWhiz
 {
@@ -9,7 +10,6 @@ namespace QuizWhiz
             InitializeComponent();
 
             MainPage = new AppShell();
-
         }
 
         protected override Window CreateWindow(IActivationState? activationState)

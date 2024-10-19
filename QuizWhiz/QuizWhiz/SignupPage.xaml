@@ -154,7 +154,6 @@
                 TextColor="White"
                 Margin="0,5,0,0"
                 Clicked="OnBackButtonClicked"/>
-
             </StackLayout>
 
         </Frame>

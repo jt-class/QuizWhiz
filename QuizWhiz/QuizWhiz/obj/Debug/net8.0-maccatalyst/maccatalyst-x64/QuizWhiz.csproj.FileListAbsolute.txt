@@ -311,3 +311,4 @@ C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\ne
 C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\QuizWhiz.csproj.Up2Date
 C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\QuizWhiz.genruntimeconfig.cache
 C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ref\QuizWhiz.dll
+C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\close.png

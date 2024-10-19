@@ -319,3 +319,7 @@ C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\ne
 C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-ios\ios-arm64\QuizWhiz.csproj.Up2Date
 C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-ios\ios-arm64\QuizWhiz.genruntimeconfig.cache
 C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-ios\ios-arm64\ref\QuizWhiz.dll
+C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-ios\ios-arm64\resizetizer\sp\splash_166F1B222953ECC672C9D08B3E26B9315F63F2810444F974373B01717E6BA018.png
+C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-ios\ios-arm64\resizetizer\sp\splash_166F1B222953ECC672C9D08B3E26B9315F63F2810444F974373B01717E6BA018@2x.png
+C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-ios\ios-arm64\resizetizer\sp\splash_166F1B222953ECC672C9D08B3E26B9315F63F2810444F974373B01717E6BA018@3x.png
+C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-ios\ios-arm64\resizetizer\r\Resources\close.png

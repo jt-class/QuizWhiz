@@ -41,7 +41,6 @@ public partial class HomePage : ContentPage
         await Navigation.PushAsync(new QuizWhiz.Pages.Create_Quiz.CreateQuizPage());
     }
     
-
     public async void OnBackAgain()
     {
         var toast = Toast.Make("Press back again to exit the app.", ToastDuration.Short);

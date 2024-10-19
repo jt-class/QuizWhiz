@@ -45,8 +45,6 @@
                         FontSize="15"
                         Margin="0,0,0,20"/>
 
-                    
-
                     <!-- Picker Frame-->
                     <Frame 
                         BackgroundColor="#3f6bae" 
@@ -81,11 +79,13 @@
                             <Entry
                                 Grid.Column="1"
                                 x:Name="entryQuizName"
+                                VerticalTextAlignment="Center"
+                                Placeholder="Enter quiz name here"
                                 BackgroundColor="Transparent"
-                                PlaceholderColor="Transparent"/>
+                                PlaceholderColor="LightGray"/>
                         </Grid>
                     </Frame>
-
+                    
                     <!-- Quiz Description Frame-->
                     <Frame 
                         x:Name="onQuizDescTap"
@@ -109,6 +109,7 @@
                                 Grid.Column="1"
                                 x:Name="entryQuizDesc"
                                 Placeholder="(Optional)"
+                                VerticalTextAlignment="Center"
                                 BackgroundColor="Transparent"
                                 PlaceholderColor="LightGray"/>
                         </Grid>
@@ -130,6 +131,8 @@
                                     VerticalOptions="Center"/>
 
                                 <Entry
+                                    HorizontalTextAlignment="Center"
+                                    VerticalTextAlignment="Center"
                                     Placeholder="Ex. 30:00 "
                                     PlaceholderColor="LightGrey"/>
 
@@ -148,6 +151,7 @@
 
                                 <Entry
                                     Placeholder="1 - 50 "
+                                    VerticalTextAlignment="Center"
                                     PlaceholderColor="LightGrey"/>
                             </HorizontalStackLayout>
                         </VerticalStackLayout>
@@ -161,8 +165,8 @@
                     <!-- Next button-->
                     <Button
                         Text="NEXT"
+                        Clicked="OnNextbuttonClicked"
                         Background="White"/>
-
                 </StackLayout>
             </VerticalStackLayout>
         </Frame>

@@ -2122,3 +2122,4 @@ C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\ne
 C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-android34.0\stamp\_GenerateJavaStubs.stamp
 C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-android34.0\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-android34.0\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\alber\OneDrive\Documents\GitHub\QuizWhiz\QuizWhiz\QuizWhiz\obj\Debug\net8.0-android34.0\resizetizer\r\drawable\close.png

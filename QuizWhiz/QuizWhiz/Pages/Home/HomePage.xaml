@@ -74,8 +74,6 @@
                 HeightRequest="30"
                 MinimumWidthRequest="45"
                 MinimumHeightRequest="30"/>
-
-
             </HorizontalStackLayout>
 
         </Grid>
