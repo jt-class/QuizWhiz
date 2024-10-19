@@ -14,11 +14,6 @@ public partial class CreateQuizPage : ContentPage
                 "  True or False"
             };
         TOQPicker.ItemsSource = options;
-
-        // When onQuizNameTap is tapped, it focus on entryQuizName
-        var tapGestureRecognizer = new TapGestureRecognizer();
-        tapGestureRecognizer.Tapped += OnQuizNameTapped;
-        onQuizNameTap.GestureRecognizers.Add(tapGestureRecognizer);
     }
 
     private async void OnBackButtonClicked(object sender, EventArgs e)
@@ -26,10 +21,4 @@ public partial class CreateQuizPage : ContentPage
         // Navigate back to MainPage
         await Navigation.PopAsync();
     }
-
-    private async void OnQuizNameTapped(object sender, EventArgs e)
-    {
-        entryQuizName.Focus();
-    }
-
 }

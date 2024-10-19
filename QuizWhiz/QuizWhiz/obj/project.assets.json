@@ -34330,24 +34330,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ben & Cem\\.nuget\\packages\\": {},
+    "C:\\Users\\alber\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ben & Cem\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\QuizWhiz.csproj",
+      "projectUniqueName": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\QuizWhiz.csproj",
       "projectName": "QuizWhiz",
-      "projectPath": "C:\\Users\\Ben & Cem\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\QuizWhiz.csproj",
-      "packagesPath": "C:\\Users\\Ben & Cem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ben & Cem\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\obj\\",
+      "projectPath": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\QuizWhiz.csproj",
+      "packagesPath": "C:\\Users\\alber\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Ben & Cem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\alber\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
