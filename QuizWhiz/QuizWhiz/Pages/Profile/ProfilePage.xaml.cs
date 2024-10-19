@@ -23,11 +23,11 @@ public partial class ProfilePage : ContentPage
         profilePhoto.IsEnabled = true;
         editPhoto.IsVisible = true;
         entryFirstName.IsEnabled = true;
-        entryFirstName.Background = Colors.LightGray;
+        frameFirstName.Background = Colors.LightGray;
         entrySurname.IsEnabled = true;
-        entrySurname.Background = Colors.LightGray;
+        frameSurname.Background = Colors.LightGray;
         entryBio.IsEnabled = true;
-        entryBio.Background = Colors.LightGray;
+        frameBio.Background = Colors.LightGray;
 
         editProfileBtn.IsVisible = false;
         updateProfileBtn.IsVisible = true;

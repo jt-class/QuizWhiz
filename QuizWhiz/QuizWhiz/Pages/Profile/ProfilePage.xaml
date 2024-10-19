@@ -4,122 +4,151 @@
              x:Class="QuizWhiz.Pages.Profile.ProfilePage"
              Title="ProfilePage"
              Background="White">
-    <VerticalStackLayout
-        Margin="0,25,0,0">
+    <Grid>
+        <Grid RowDefinitions="Auto, *">
+            <Grid
+                Margin="0,25,0,0">
+                <ImageButton
+                    Source="back.png"
+                    Clicked="OnBackButtonClicked"
+                    WidthRequest="55"
+                    HeightRequest="35"
+                    HorizontalOptions="Start"
+                    VerticalOptions="Center"
+                    Margin="10,0,0,0"/>
 
-        <Grid>
-            <ImageButton
-                Source="back.png"
-                Clicked="OnBackButtonClicked"
-                WidthRequest="55"
-                HeightRequest="35"
-                HorizontalOptions="Start"
-                Margin="10,0,0,0"/>
+                <Label 
+                    Text="PROFILE"
+                    TextColor="Black"
+                    FontSize="25"
+                    FontAttributes="Bold"
+                    HorizontalOptions="Center"
+                    VerticalOptions="Center" />
+            </Grid>
 
-            <Label 
-                Text="PROFILE"
-                TextColor="Black"
-                FontSize="25"
-                FontAttributes="Bold"
-                HorizontalOptions="Center"
-                VerticalOptions="Center" />
+            <ScrollView Grid.Row="1">
+                <VerticalStackLayout Padding="0,20,0,0">
+
+                    <!-- Profile photo section -->
+                    <ImageButton
+                        x:Name="profilePhoto"
+                        Source="account.png"
+                        IsEnabled="False"
+                        Clicked="OnPhotoEditClicked"
+                        Opacity="1"
+                        HeightRequest="200"
+                        WidthRequest="200"
+                        HorizontalOptions="Center"
+                        Margin="0,30,0,5"/>
+
+                    <Label
+                        x:Name="editPhoto"
+                        Text="UPLOAD PHOTO"
+                        IsVisible="Hidden"
+                        FontSize="12"
+                        TextColor="Blue"
+                        HorizontalOptions="Center">
+                        <Label.GestureRecognizers>
+                            <TapGestureRecognizer 
+                                Tapped="OnPhotoEditClicked" 
+                                NumberOfTapsRequired="1"/>
+                        </Label.GestureRecognizers>
+                    </Label>
+
+                    <!-- First Name Entry -->
+                    <Label
+                        Text="Name"
+                        FontAttributes="Bold"
+                        TextColor="Black"
+                        FontSize="15"
+                        Margin="35,15,35,3"/>
+
+                    <Frame
+                        x:Name="frameFirstName"
+                        Padding="0" 
+                        Margin="30,0,30,0"
+                        CornerRadius="5"
+                        BorderColor="Transparent"
+                        BackgroundColor="DarkGray">
+
+                        <Entry
+                            x:Name="entryFirstName"
+                            IsEnabled="False"
+                            FontSize="18"
+                            Text="John"
+                            TextColor="Black"/>
+                    </Frame>
+
+                    <!-- Surname Entry -->
+                    <Label
+                        Text="Surname"
+                        FontAttributes="Bold"
+                        TextColor="Black"
+                        FontSize="15"
+                        Margin="35,15,35,3"/>
+
+                    <Frame
+                        x:Name="frameSurname"
+                        Padding="0" 
+                        Margin="30,0,30,0"
+                        CornerRadius="5"
+                        BorderColor="Transparent"
+                        BackgroundColor="DarkGray">
+
+                        <Entry
+                            x:Name="entrySurname"
+                            IsEnabled="False"
+                            FontSize="18"
+                            Text="Doe"
+                            TextColor="Black"/>
+                    </Frame>
+
+                    <!-- Bio Entry -->
+                    <Label
+                        Text="BIO:"
+                        TextColor="Black"
+                        FontAttributes="Bold"
+                        FontSize="18"
+                        Margin="35,15,35,3"/>
+
+                    <Frame
+                        x:Name="frameBio"
+                        Padding="0" 
+                        Margin="30,0,30,0"
+                        CornerRadius="5"
+                        BorderColor="Transparent"
+                        BackgroundColor="DarkGray">
+
+                        <Editor
+                            x:Name="entryBio"
+                            IsEnabled="False"
+                            FontSize="18"
+                            Text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+                            TextColor="Black"
+                            AutoSize="TextChanges"/>
+                    </Frame>
+
+                    <!-- Profile Edit Buttons -->
+                    <Button
+                        x:Name="updateProfileBtn"
+                        IsVisible="Hidden"
+                        Text="ACCEPT CHANGES"
+                        Clicked="OnEditProfileClicked"
+                        TextColor="White"
+                        BackgroundColor="#0F469A"
+                        HeightRequest="50"
+                        Margin="80,25,80,0"/>
+
+                    <Button
+                        x:Name="editProfileBtn"
+                        Text="EDIT PROFILE"
+                        Clicked="OnEditProfileClicked"
+                        TextColor="White"
+                        BackgroundColor="#0F469A"
+                        HeightRequest="50"
+                        Margin="80,25,80,0"/>
+                </VerticalStackLayout>
+            </ScrollView>
         </Grid>
-
-        <ImageButton
-            x:Name="profilePhoto"
-            Source="account.png"
-            IsEnabled="False"
-            Clicked="OnPhotoEditClicked"
-            Opacity="1"
-            HeightRequest="200"
-            WidthRequest="200"
-            Margin="0,50,0,5"/>
-
-        <Label
-            x:Name="editPhoto"
-            Text="UPLOAD PHOTO"
-            IsVisible="Hidden"
-            FontSize="12"
-            TextColor="Blue"
-            HorizontalOptions="Center">
-            <Label.GestureRecognizers>
-                <TapGestureRecognizer 
-                    Tapped="OnPhotoEditClicked" 
-                    NumberOfTapsRequired="1"/>
-            </Label.GestureRecognizers>
-        </Label>
-
-        <Label
-            Text="Name"
-            FontAttributes="Bold"
-            TextColor="Black"
-            FontSize="15"
-            Margin="50,15,0,3"/>
-        <Entry
-            x:Name="entryFirstName"
-            Background="DarkGray"
-            IsEnabled="False"
-            WidthRequest="450"
-            FontSize="18"
-            Text="John"
-            TextColor="Black"/>
-
-        <Label
-            Text="Surname"
-            FontAttributes="Bold"
-            TextColor="Black"
-            FontSize="15"
-            Margin="50,15,0,3"/>
-        <Entry
-            x:Name="entrySurname"
-            Background="DarkGray"
-            IsEnabled="False"
-            WidthRequest="450"
-            FontSize="18"
-            Text="Doe"
-            TextColor="Black"/>
-
-        <Label
-            Text="BIO:"
-            TextColor="Black"
-            FontAttributes="Bold"
-            FontSize="18"
-            Margin="50,15,0,3"/>
-
-        <Editor
-            x:Name="entryBio"
-            BackgroundColor="DarkGray"
-            IsEnabled="False"
-            WidthRequest="450"
-            FontSize="18"
-            HeightRequest="200"
-            Text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
-            TextColor="Black"
-            AutoSize="TextChanges" />
-
-
-        <Label
-            TextColor="Black"
-            FontSize="18"
-            Margin="50,0,50,3"/>
-
-        <Button
-            x:Name="updateProfileBtn"
-            IsVisible="Hidden"
-            Text="ACCEPT CHANGES"
-            Clicked="OnEditProfileClicked"
-            TextColor="White"
-            BackgroundColor="#0F469A"
-            HeightRequest="50"
-            Margin="80,15,80,0"/>
-
-        <Button
-            x:Name="editProfileBtn"
-            Text="EDIT PROFILE"
-            Clicked="OnEditProfileClicked"
-            TextColor="White"
-            BackgroundColor="#0F469A"
-            HeightRequest="50"
-            Margin="80,15,80,0"/>
-    </VerticalStackLayout>
+    </Grid>
 </ContentPage>

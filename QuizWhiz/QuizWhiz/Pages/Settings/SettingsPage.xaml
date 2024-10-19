@@ -4,32 +4,34 @@
              x:Class="QuizWhiz.Pages.Settings.SettingsPage"
              Title="SettingsPage"
              Background="White">
-    
-    <VerticalStackLayout>
-        <ImageButton
-            Source="back.png"
-            Clicked="OnBackButtonClicked"
-            WidthRequest="55"
-            HeightRequest="35"
-            HorizontalOptions="Start"
-            Margin="10,10,0,150"/>
 
-        <Label
-            Text="ABOUT"
-            FontSize="30"
-            TextColor="Black"
-            FontAttributes="Bold"
-            VerticalOptions="Center"
-            HorizontalOptions="Center"/>
+    <Grid>
+        <VerticalStackLayout>
+            <ImageButton
+                Source="back.png"
+                Clicked="OnBackButtonClicked"
+                WidthRequest="55"
+                HeightRequest="35"
+                HorizontalOptions="Start"
+                Margin="10,10,0,150"/>
 
-        <Label
-            Text="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit architecto numquam in qui quas nulla quibusdam enim veritatis dolore, sint tempore fugiat corrupti? Voluptatum voluptate ex aspernatur totam quibusdam natus!  "
-            FontSize="18"
-            TextColor="Black"
-            VerticalOptions="Center"
-            HorizontalTextAlignment="Center"
-            HorizontalOptions="Center"
-            Margin="30,10,30,0"/>
+            <Label
+                Text="ABOUT"
+                FontSize="30"
+                TextColor="Black"
+                FontAttributes="Bold"
+                VerticalOptions="Center"
+                HorizontalOptions="Center"/>
+
+            <Label
+                Text="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit architecto numquam in qui quas nulla quibusdam enim veritatis dolore, sint tempore fugiat corrupti? Voluptatum voluptate ex aspernatur totam quibusdam natus!"
+                FontSize="18"
+                TextColor="Black"
+                VerticalOptions="Center"
+                HorizontalTextAlignment="Center"
+                HorizontalOptions="Center"
+                Margin="30,10,30,0"/>
+        </VerticalStackLayout>
 
         <Button
             Text="LOG OUT"
@@ -37,8 +39,8 @@
             TextColor="White"
             BackgroundColor="#0F469A"
             HeightRequest="50"
-            Margin="80,380,80,0"/>
-
-
-    </VerticalStackLayout>
+            WidthRequest="250"
+            Margin="0,0,0,80"
+            VerticalOptions="End"/>
+    </Grid>
 </ContentPage>
