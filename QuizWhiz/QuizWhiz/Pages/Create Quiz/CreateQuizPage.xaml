@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="QuizWhiz.Pages.Create_Quiz.CreateQuizPage"
+             Title="CreateQuizPage"
+             Background="White">
+    <VerticalStackLayout        
+        Margin="0,25,0,0">
+
+        <Grid>
+            <ImageButton
+            Source="back.png"
+            Clicked="OnBackButtonClicked"
+            WidthRequest="55"
+            HeightRequest="35"
+            HorizontalOptions="Start"
+            VerticalOptions="Start"
+            Margin="10,0,0,0"/>
+
+            <Label 
+            Text="MAKE A QUIZ"
+            TextColor="Black"
+            FontSize="25"
+            FontAttributes="Bold"
+            HorizontalOptions="Center"
+            VerticalOptions="Center" />
+        </Grid>
+
+        <Frame
+            Margin="15,25,15,0"
+            CornerRadius="10"
+            Background="#0F469A">
+
+            <VerticalStackLayout>
+                <StackLayout Padding="0">
+
+                    <Label
+                        Text="Customize your quiz"
+                        FontAttributes="Bold"
+                        FontSize="20"
+                        Margin="0,0,0,10"/>
+                    
+                    <Label
+                        Text="Set your quiz preferences! Choose the types and formats you’d like to create."
+                        FontSize="15"
+                        Margin="0,0,0,20"/>
+
+                    
+
+                    <!-- Picker Frame-->
+                    <Frame 
+                        BackgroundColor="#3f6bae" 
+                        Padding="0" 
+                        Margin="0,0,0,15"
+                        CornerRadius="5"
+                        BorderColor="transparent">
+
+                        <Picker 
+                            x:Name="TOQPicker" 
+                            Title="  TYPE OF QUIZ"/>
+                    </Frame>
+
+                    <!-- Quiz Name Frame-->
+                    <Frame 
+                        x:Name="onQuizNameTap"
+                        BackgroundColor="#3f6bae" 
+                        Padding="0" 
+                        Margin="0,0,0,15"
+                        CornerRadius="5"
+                        BorderColor="transparent">
+
+                        <HorizontalStackLayout 
+                            Background="#3f6bae">
+
+                            <Label
+                                Text="QUIZ NAME: "
+                                Margin="10,0,0,0"
+                                VerticalOptions="Center"/>
+
+                            <Entry
+                                x:Name="entryQuizName"
+                                BackgroundColor="Transparent"
+                                PlaceholderColor="Transparent"/>
+                        </HorizontalStackLayout>
+                    </Frame>
+
+                    <!-- Time Frame-->
+                    <Frame 
+                        BackgroundColor="#3f6bae" 
+                        Padding="0" 
+                        Margin="0,0,0,15"
+                        CornerRadius="5"
+                        BorderColor="transparent">
+
+                        <VerticalStackLayout>
+                            <HorizontalStackLayout>
+                                <Label
+                                    Margin="10,0,0,0"
+                                    Text="TIME:"
+                                    VerticalOptions="Center"/>
+
+                                <Entry
+                                    Placeholder="Ex. 30:00 "
+                                    PlaceholderColor="LightGrey"/>
+
+                            </HorizontalStackLayout>
+
+                            <!-- Number of Questions Frame-->
+                            <HorizontalStackLayout>
+                                <Label
+                                    Margin="10,0,0,0"
+                                    Text="NUMBER OF QUESTIONS:"
+                                    VerticalOptions="Center"/>
+
+                                <Entry
+                                    Placeholder="1 - 50 "
+                                    PlaceholderColor="LightGrey"/>
+                            </HorizontalStackLayout>
+                        </VerticalStackLayout>
+                    </Frame>
+
+                    <Label
+                        Text="Upon completing your selections, click 'Next' to access the quiz question input area."
+                        FontSize="15"
+                        Margin="0,0,0,20"/>
+
+                    <!-- Next button-->
+                    <Button
+                        Text="NEXT"
+                        Background="White"/>
+
+                </StackLayout>
+            </VerticalStackLayout>
+        </Frame>
+    </VerticalStackLayout>
+</ContentPage>

@@ -81,6 +81,9 @@
 
 
 	<ItemGroup>
+	  <MauiXaml Update="Pages\Create Quiz\CreateQuizPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	  <MauiXaml Update="Pages\History\HistoryPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>

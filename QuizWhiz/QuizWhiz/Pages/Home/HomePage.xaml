@@ -54,26 +54,26 @@
                 <ImageButton
                 Source="history.png"
                 Clicked="OpenHistoryPage_Clicked"
-                WidthRequest="55"
-                HeightRequest="35"
-                MinimumWidthRequest="55"
-                MinimumHeightRequest="35"/>
+                WidthRequest="45"
+                HeightRequest="30"
+                MinimumWidthRequest="45"
+                MinimumHeightRequest="30"/>
 
                 <ImageButton
                 Source="notification.png"
                 Clicked="OpenNotificationPage_Clicked"
-                WidthRequest="55"
-                HeightRequest="35"
-                MinimumWidthRequest="55"
-                MinimumHeightRequest="35"/>
+                WidthRequest="45"
+                HeightRequest="30"
+                MinimumWidthRequest="45"
+                MinimumHeightRequest="30"/>
 
                 <ImageButton
                 Source="settings.png"
                 Clicked="OpenSettingsPage_Clicked"
-                WidthRequest="55"
-                HeightRequest="35"
-                MinimumWidthRequest="55"
-                MinimumHeightRequest="35"/>
+                WidthRequest="45"
+                HeightRequest="30"
+                MinimumWidthRequest="45"
+                MinimumHeightRequest="30"/>
 
 
             </HorizontalStackLayout>
@@ -82,7 +82,7 @@
 
         <Frame
             BackgroundColor="#0F469A"
-            Margin="25">
+            Margin="15">
 
             <VerticalStackLayout>
                 <Label
@@ -103,6 +103,7 @@
 
                 <Button
                 Text="CREATE NOW"
+                Clicked="OpenCreateButton_Clicked"
                 BackgroundColor="White"
                 Margin="35,25,35,15"/>
             </VerticalStackLayout>
@@ -115,20 +116,28 @@
             TextColor="Black"
             FontAttributes="Bold"
             HorizontalOptions="Center"
-            Margin="0,0"/>
+            Margin="0,0,0,10"/>
 
-        <SearchBar
-            Placeholder="Search Quizzes"
-            BackgroundColor="LightGray"
-            TextColor="Black"
-            Margin="20,10"/>
+        <Frame 
+            Background="LightGray" 
+            Margin="15,0,15,0"
+            CornerRadius="5"
+            Padding="0"
+            BorderColor="Transparent">
+
+            <SearchBar
+                Placeholder="Search Quizzes"
+                TextColor="Black"
+                BackgroundColor="Transparent"/>
+        </Frame>
+
 
         <ScrollView>
             <VerticalStackLayout>
-                <CollectionView ItemsSource="{Binding Quizzes}" Margin="20,10" HeightRequest="400">
+                <CollectionView ItemsSource="{Binding Quizzes}" Margin="15">
                     <CollectionView.ItemTemplate>
                         <DataTemplate>
-                            <Frame Margin="5" Padding="10" BackgroundColor="White" CornerRadius="10" HasShadow="True">
+                            <Frame Margin="0,0,0,8" Padding="10" BackgroundColor="White" CornerRadius="10" HasShadow="True">
                                 <VerticalStackLayout>
                                     <Label Text="{Binding Title}" 
                                    FontSize="18" 
