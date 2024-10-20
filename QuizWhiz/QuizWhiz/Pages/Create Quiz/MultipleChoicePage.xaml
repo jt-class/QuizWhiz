@@ -14,9 +14,9 @@
             <!-- Question Frame -->
             <RowDefinition Height="Auto" />
             <!-- Choices Label -->
-            <RowDefinition Height="*" />
-            <!-- Choices -->
             <RowDefinition Height="Auto" />
+            <!-- Choices -->
+            <RowDefinition Height="*" />
             <!-- Continue/Back Buttons -->
         </Grid.RowDefinitions>
 
@@ -49,7 +49,7 @@
             Background="White"
             x:Name="frameQuestion"
             CornerRadius="10"
-            Margin="25,20,25,30"
+            Margin="25,10,25,20"
             HasShadow="True">
             <VerticalStackLayout Margin="15,0,15,0">
                 <Label
@@ -104,8 +104,9 @@
         <!-- Continue and Back Buttons -->
         <VerticalStackLayout
             Grid.Row="4"
-            Margin="0,15,0,50"
-            Spacing="10">
+            Margin="0,0,0,0"
+            Spacing="10"
+            VerticalOptions="Center">
 
             <Button
                 Text="CONTINUE"
