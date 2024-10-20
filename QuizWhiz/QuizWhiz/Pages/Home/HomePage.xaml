@@ -129,6 +129,7 @@
                 BackgroundColor="Transparent"/>
         </Frame>
 
+        <ScrollView>
         <CollectionView 
             ItemsSource="{Binding Quizzes}" 
             Margin="15" 
@@ -167,14 +168,13 @@
                                     Text="View" 
                                     BackgroundColor="#0F469A" 
                                     TextColor="White" 
-                                    Margin="10,0,0,0" 
-                                    Command="{Binding Source={x:Reference Name=YourCollectionViewName}, Path=BindingContext.ViewQuizCommand}" 
-                                    CommandParameter="{Binding .}"/>
+                                    Margin="10,0,0,0"/>
                             </HorizontalStackLayout>
                         </VerticalStackLayout>
                     </Frame>
                 </DataTemplate>
             </CollectionView.ItemTemplate>
         </CollectionView>
+        </ScrollView>
     </VerticalStackLayout>
 </ContentPage>
