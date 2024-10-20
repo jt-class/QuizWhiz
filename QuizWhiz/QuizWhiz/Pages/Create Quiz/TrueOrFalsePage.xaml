@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="QuizWhiz.Pages.Create_Quiz.TrueOrFalsePage"
+             Title="TrueOrFalsePage"
+             Background="#0F469A">
+    <VerticalStackLayout        
+        Margin="0,25,0,0">
+
+        <Grid>
+            <Image 
+                Source="close.png" 
+                WidthRequest="25" 
+                HeightRequest="25"
+                HorizontalOptions="Start"
+                VerticalOptions="Center"
+                Margin="15,0,0,0">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="OnBackButtonClicked" />
+                </Image.GestureRecognizers>
+            </Image>
+
+            <Label 
+            Text="TRUE OR FALSE"
+            TextColor="white"
+            FontSize="25"
+            FontAttributes="Bold"
+            HorizontalOptions="Center"
+            VerticalOptions="Center" />
+        </Grid>
+    </VerticalStackLayout>
+</ContentPage>

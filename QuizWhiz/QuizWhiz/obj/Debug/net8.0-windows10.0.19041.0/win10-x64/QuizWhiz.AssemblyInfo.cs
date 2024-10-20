@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuizWhiz")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+de1472835109a77e08beaa37745289e9bfbbe4e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+d9ded4573b865d6bf4ef538d05701dc2f09da002")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuizWhiz")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuizWhiz")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

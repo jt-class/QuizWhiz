@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="QuizWhiz.Pages.Create_Quiz.MultipleChoicePage"
+             Title="MultipleChoicePage"
+             Background="#0F469A">
+
+    <Grid Margin="0,0,0,0">
+        <!-- Define Grid structure -->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <!-- Header -->
+            <RowDefinition Height="Auto" />
+            <!-- Question Frame -->
+            <RowDefinition Height="Auto" />
+            <!-- Choices Label -->
+            <RowDefinition Height="*" />
+            <!-- Choices -->
+            <RowDefinition Height="Auto" />
+            <!-- Continue/Back Buttons -->
+        </Grid.RowDefinitions>
+
+        <!-- Header with close button and title -->
+        <Grid Grid.Row="0" Padding="15">
+            <Image 
+                Source="close.png" 
+                WidthRequest="25" 
+                HeightRequest="25"
+                HorizontalOptions="Start"
+                VerticalOptions="Center"
+                Margin="0,0,15,0">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="OnCloseButtonClicked" />
+                </Image.GestureRecognizers>
+            </Image>
+
+            <Label 
+                Text="MULTIPLE CHOICE"
+                TextColor="White"
+                FontSize="25"
+                FontAttributes="Bold"
+                HorizontalOptions="Center"
+                VerticalOptions="Center" />
+        </Grid>
+
+        <!-- Question Frame -->
+        <Frame
+            Grid.Row="1"
+            Background="White"
+            x:Name="frameQuestion"
+            CornerRadius="10"
+            Margin="25,20,25,30"
+            HasShadow="True">
+            <VerticalStackLayout Margin="15,0,15,0">
+                <Label
+                    Text="PUT YOUR QUESTION HERE"
+                    TextColor="#0F469A"
+                    FontSize="15"
+                    HorizontalOptions="Center"
+                    HorizontalTextAlignment="Center"
+                    FontAttributes="Bold" />
+                <Editor
+                    TextColor="Black"
+                    Margin="0,25,0,25"
+                    HeightRequest="120"
+                    FontSize="15"
+                    VerticalTextAlignment="Center"
+                    HorizontalTextAlignment="Center" />
+            </VerticalStackLayout>
+        </Frame>
+
+        <!-- Choices Label -->
+        <Label
+            Grid.Row="2"
+            Text="FILL IN YOUR CHOICES HERE"
+            TextColor="White"
+            FontSize="15"
+            Margin="30,0,0,10"/>
+
+        <!-- Choices Frames -->
+        <VerticalStackLayout
+            Spacing="10"
+            Grid.Row="3"
+            Margin="0,0,0,0">
+
+            <!-- Repeat for Choice 1-4 -->
+            <Frame Background="White" CornerRadius="10" Margin="25,0,25,0" Padding="15" HasShadow="True">
+                <Editor TextColor="Black" FontSize="15" Placeholder="Choice 1" VerticalTextAlignment="Center"/>
+            </Frame>
+
+            <Frame Background="White" CornerRadius="10" Margin="25,0,25,0" Padding="15" HasShadow="True">
+                <Editor TextColor="Black" FontSize="15" Placeholder="Choice 2" VerticalTextAlignment="Center"/>
+            </Frame>
+
+            <Frame Background="White" CornerRadius="10" Margin="25,0,25,0" Padding="15" HasShadow="True">
+                <Editor TextColor="Black" FontSize="15" Placeholder="Choice 3" VerticalTextAlignment="Center"/>
+            </Frame>
+
+            <Frame Background="White" CornerRadius="10" Margin="25,0,25,0" Padding="15" HasShadow="True">
+                <Editor TextColor="Black" FontSize="15" Placeholder="Choice 4" VerticalTextAlignment="Center"/>
+            </Frame>
+        </VerticalStackLayout>
+
+        <!-- Continue and Back Buttons -->
+        <VerticalStackLayout
+            Grid.Row="4"
+            Margin="0,15,0,50"
+            Spacing="10">
+
+            <Button
+                Text="CONTINUE"
+                BackgroundColor="White"
+                TextColor="#0F469A"
+                FontAttributes="Bold"
+                CornerRadius="20"
+                Margin="25,0,25,0"
+                HeightRequest="50"/>
+
+            <Button
+                Text="BACK"
+                Clicked="OnBackButtonClicked"
+                BackgroundColor="White"
+                TextColor="#0F469A"
+                FontAttributes="Bold"
+                CornerRadius="20"
+                Margin="25,0,25,0"
+                HeightRequest="50"/>
+        </VerticalStackLayout>
+    </Grid>
+</ContentPage>

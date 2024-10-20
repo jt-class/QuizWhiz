@@ -34,23 +34,29 @@ build_metadata.AdditionalFiles.ManifestResourceName = QuizWhiz.LoginPage.xaml
 build_metadata.AdditionalFiles.TargetPath = LoginPage.xaml
 build_metadata.AdditionalFiles.RelativePath = LoginPage.xaml
 
-[C:/Users/alber/OneDrive/Documents/GitHub/QuizWhiz/QuizWhiz/QuizWhiz/Pages/Create Quiz/CreateMultipleChoicePage.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = QuizWhiz.Pages.Create_Quiz.CreateMultipleChoicePage.xaml
-build_metadata.AdditionalFiles.TargetPath = Pages\Create Quiz\CreateMultipleChoicePage.xaml
-build_metadata.AdditionalFiles.RelativePath = Pages\Create Quiz\CreateMultipleChoicePage.xaml
-
 [C:/Users/alber/OneDrive/Documents/GitHub/QuizWhiz/QuizWhiz/QuizWhiz/Pages/Create Quiz/CreateQuizPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = QuizWhiz.Pages.Create_Quiz.CreateQuizPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\Create Quiz\CreateQuizPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\Create Quiz\CreateQuizPage.xaml
 
-[C:/Users/alber/OneDrive/Documents/GitHub/QuizWhiz/QuizWhiz/QuizWhiz/Pages/Create Quiz/QuizCreateFormPage.xaml]
+[C:/Users/alber/OneDrive/Documents/GitHub/QuizWhiz/QuizWhiz/QuizWhiz/Pages/Create Quiz/FillInTheBlanksPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = QuizWhiz.Pages.Create_Quiz.QuizCreateFormPage.xaml
-build_metadata.AdditionalFiles.TargetPath = Pages\Create Quiz\QuizCreateFormPage.xaml
-build_metadata.AdditionalFiles.RelativePath = Pages\Create Quiz\QuizCreateFormPage.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = QuizWhiz.Pages.Create_Quiz.FillInTheBlanksPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Create Quiz\FillInTheBlanksPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Create Quiz\FillInTheBlanksPage.xaml
+
+[C:/Users/alber/OneDrive/Documents/GitHub/QuizWhiz/QuizWhiz/QuizWhiz/Pages/Create Quiz/MultipleChoicePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = QuizWhiz.Pages.Create_Quiz.MultipleChoicePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Create Quiz\MultipleChoicePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Create Quiz\MultipleChoicePage.xaml
+
+[C:/Users/alber/OneDrive/Documents/GitHub/QuizWhiz/QuizWhiz/QuizWhiz/Pages/Create Quiz/TrueOrFalsePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = QuizWhiz.Pages.Create_Quiz.TrueOrFalsePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Create Quiz\TrueOrFalsePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Create Quiz\TrueOrFalsePage.xaml
 
 [C:/Users/alber/OneDrive/Documents/GitHub/QuizWhiz/QuizWhiz/QuizWhiz/Pages/History/HistoryPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml

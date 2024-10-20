@@ -26,18 +26,20 @@ public partial class CreateQuizPage : ContentPage
     {
         if (TOQPicker.SelectedIndex == 0)
         {
-            //Navigate to Create multiple choice page
-            await Navigation.PushAsync(new QuizWhiz.Pages.Create_Quiz.CreateMultipleChoicePage());
+            //Navigate to multiple choice page
+            await Navigation.PushAsync(new QuizWhiz.Pages.Create_Quiz.MultipleChoicePage());
         }
 
         if (TOQPicker.SelectedIndex == 1)
         {
-            DisplayAlert("1","a","a");
+            //Navigate to fill in the blanks page
+            await Navigation.PushAsync(new QuizWhiz.Pages.Create_Quiz.FillInTheBlanksPage());
         }
 
         if (TOQPicker.SelectedIndex == 2)
         {
-            DisplayAlert("2", "a", "a");
+            //Navigate to true or false page
+            await Navigation.PushAsync(new QuizWhiz.Pages.Create_Quiz.TrueOrFalsePage());
         }
     }
 }

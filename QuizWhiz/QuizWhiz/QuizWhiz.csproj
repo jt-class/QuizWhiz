@@ -81,13 +81,16 @@
 
 
 	<ItemGroup>
-	  <MauiXaml Update="Pages\Create Quiz\CreateMultipleChoicePage.xaml">
-	    <Generator>MSBuild:Compile</Generator>
-	  </MauiXaml>
 	  <MauiXaml Update="Pages\Create Quiz\CreateQuizPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
-	  <MauiXaml Update="Pages\Create Quiz\QuizCreateFormPage.xaml">
+	  <MauiXaml Update="Pages\Create Quiz\FillInTheBlanksPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Pages\Create Quiz\MultipleChoicePage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Pages\Create Quiz\TrueOrFalsePage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	  <MauiXaml Update="Pages\History\HistoryPage.xaml">
