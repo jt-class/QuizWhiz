@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="QuizWhiz.Pages.Create_Quiz.IdentificationPage"
+             Title="IdentificationPage"
+             Background="#0F469A">
+    <Grid RowSpacing="10">
+        <!-- Added RowSpacing -->
+        <!-- Define Grid structure -->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <!-- Header -->
+            <RowDefinition Height="Auto" />
+            <!-- Question Frame -->
+            <RowDefinition Height="Auto" />
+            <!-- Label -->
+            <RowDefinition Height="Auto" />
+            <!-- Answer -->
+            <RowDefinition Height="Auto" />
+            <!-- Previous/Next Button -->
+        </Grid.RowDefinitions>
+
+        <!-- Header with close button and title -->
+        <Grid Grid.Row="0" Padding="15">
+            <Image 
+                Source="close.png" 
+                WidthRequest="20" 
+                HeightRequest="20"
+                HorizontalOptions="Start"
+                VerticalOptions="Center"
+                Margin="0,0,15,0">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="OnCloseButtonClicked" />
+                </Image.GestureRecognizers>
+            </Image>
+
+            <Label 
+                Text="IDENTIFICATION"
+                TextColor="White"
+                FontSize="20"
+                FontAttributes="Bold"
+                HorizontalOptions="Center"
+                VerticalOptions="Center" />
+        </Grid>
+
+        <!-- Question Frame -->
+        <Frame
+            Grid.Row="1"
+            Background="White"
+            x:Name="frameQuestion"
+            CornerRadius="10"
+            Margin="25,0,25,10"
+            HasShadow="True">
+            <VerticalStackLayout Margin="15,0,15,0">
+                <Label
+                    Text="PUT YOUR QUESTION HERE"
+                    TextColor="#0F469A"
+                    FontSize="15"
+                    HorizontalOptions="Center"
+                    HorizontalTextAlignment="Center"
+                    FontAttributes="Bold" />
+                <Editor
+                    TextColor="Black"
+                    Margin="0,15,0,15"
+                    HeightRequest="120"
+                    FontSize="15"
+                    VerticalTextAlignment="Center"
+                    HorizontalTextAlignment="Center" />
+            </VerticalStackLayout>
+        </Frame>
+
+        <!-- Choices Label -->
+        <Label
+            Grid.Row="2"
+            Text="PUT THE ANSWER HERE"
+            TextColor="White"
+            FontSize="15"
+            Margin="30,0,0,0"/>
+
+        <!-- Choices Frames -->
+        <Frame Background="White" CornerRadius="10" Margin="25,0,25,0" Padding="10" HasShadow="True" Grid.Row="3">
+            <Editor TextColor="Black" FontSize="15" Placeholder="Answer" VerticalTextAlignment="Center"/>
+        </Frame>
+
+        <VerticalStackLayout             
+            Grid.Row="4"
+            HorizontalOptions="End">
+
+            <Grid
+            ColumnSpacing="10"
+            Margin="25,10,25,0">
+
+                <!-- Define two equal columns -->
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="100" />
+                    <ColumnDefinition Width="100" />
+                </Grid.ColumnDefinitions>
+
+                <!-- Continue Button -->
+                <Button
+                Grid.Column="0"
+                Text="PREVIOUS"
+                Clicked="OnBackButtonClicked"
+                BackgroundColor="White"
+                TextColor="#0F469A"
+                FontAttributes="Bold"
+                CornerRadius="15"
+                Margin="0" />
+
+                <!-- Back Button -->
+                <Button
+                Grid.Column="1"
+                Text="NEXT"
+                BackgroundColor="White"
+                TextColor="#0F469A"
+                FontAttributes="Bold"
+                CornerRadius="15"
+                Margin="0" />
+            </Grid>
+        </VerticalStackLayout>
+    </Grid>
+</ContentPage>

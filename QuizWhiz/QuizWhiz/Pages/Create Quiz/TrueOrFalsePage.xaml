@@ -4,29 +4,138 @@
              x:Class="QuizWhiz.Pages.Create_Quiz.TrueOrFalsePage"
              Title="TrueOrFalsePage"
              Background="#0F469A">
-    <VerticalStackLayout        
-        Margin="0,25,0,0">
+    <Grid RowSpacing="10">
+        <!-- Added RowSpacing -->
+        <!-- Define Grid structure -->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <!-- Header -->
+            <RowDefinition Height="Auto" />
+            <!-- Question Frame -->
+            <RowDefinition Height="Auto" />
+            <!-- Choices Label -->
+            <RowDefinition Height="Auto" />
+            <!-- True -->
+            <RowDefinition Height="Auto" />
+            <!-- False -->
+            <RowDefinition Height="Auto" />
+            <!-- Previous/Next Button -->
+        </Grid.RowDefinitions>
 
-        <Grid>
+        <!-- Header with close button and title -->
+        <Grid Grid.Row="0" Padding="15">
             <Image 
                 Source="close.png" 
-                WidthRequest="25" 
-                HeightRequest="25"
+                WidthRequest="20" 
+                HeightRequest="20"
                 HorizontalOptions="Start"
                 VerticalOptions="Center"
-                Margin="15,0,0,0">
+                Margin="0,0,15,0">
                 <Image.GestureRecognizers>
-                    <TapGestureRecognizer Tapped="OnBackButtonClicked" />
+                    <TapGestureRecognizer Tapped="OnCloseButtonClicked" />
                 </Image.GestureRecognizers>
             </Image>
 
             <Label 
-            Text="TRUE OR FALSE"
-            TextColor="white"
-            FontSize="25"
-            FontAttributes="Bold"
-            HorizontalOptions="Center"
-            VerticalOptions="Center" />
+                Text="TRUE OR FALSE"
+                TextColor="White"
+                FontSize="20"
+                FontAttributes="Bold"
+                HorizontalOptions="Center"
+                VerticalOptions="Center" />
         </Grid>
-    </VerticalStackLayout>
+
+        <!-- Question Frame -->
+        <Frame
+            Grid.Row="1"
+            Background="White"
+            x:Name="frameQuestion"
+            CornerRadius="10"
+            Margin="25,0,25,10"
+            HasShadow="True">
+            <VerticalStackLayout Margin="15,0,15,0">
+                <Label
+                    Text="PUT YOUR QUESTION HERE"
+                    TextColor="#0F469A"
+                    FontSize="15"
+                    HorizontalOptions="Center"
+                    HorizontalTextAlignment="Center"
+                    FontAttributes="Bold" />
+                <Editor
+                    TextColor="Black"
+                    Margin="0,15,0,15"
+                    HeightRequest="120"
+                    FontSize="15"
+                    VerticalTextAlignment="Center"
+                    HorizontalTextAlignment="Center" />
+            </VerticalStackLayout>
+        </Frame>
+
+        <!-- Choices Label -->
+        <Label
+            Grid.Row="2"
+            Text="TRUE OR FALSE?"
+            TextColor="White"
+            FontSize="15"
+            Margin="30,0,0,0"/>
+
+        <!-- Choices Frames -->
+        <Frame Background="White" CornerRadius="10" Margin="25,0,25,0" Padding="10" HasShadow="True" Grid.Row="3">
+            <StackLayout Orientation="Horizontal">
+                <RadioButton GroupName="Options" x:Name="rbTrue"/>
+                <Label Text="TRUE" VerticalOptions="Center" TextColor="#0F469A" FontAttributes="Bold"/>
+            </StackLayout>
+            <Frame.GestureRecognizers>
+                <TapGestureRecognizer Tapped="rbTrueTapped" />
+            </Frame.GestureRecognizers>
+        </Frame>
+
+        <Frame Background="White" CornerRadius="10" Margin="25,0,25,0" Padding="10" HasShadow="True" Grid.Row="4">
+            <StackLayout Orientation="Horizontal">
+                <RadioButton GroupName="Options" x:Name="rbFalse"/>
+                <Label Text="FALSE" VerticalOptions="Center" TextColor="#0F469A" FontAttributes="Bold"/>
+            </StackLayout>
+            <Frame.GestureRecognizers>
+                <TapGestureRecognizer Tapped="rbFalseTapped" />
+            </Frame.GestureRecognizers>
+        </Frame>
+
+
+        <VerticalStackLayout             
+            Grid.Row="5"
+            HorizontalOptions="End">
+
+            <Grid
+            ColumnSpacing="10"
+            Margin="25,10,25,0">
+
+                <!-- Define two equal columns -->
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="100" />
+                    <ColumnDefinition Width="100" />
+                </Grid.ColumnDefinitions>
+
+                <!-- Continue Button -->
+                <Button
+                Grid.Column="0"
+                Text="PREVIOUS"
+                Clicked="OnBackButtonClicked"
+                BackgroundColor="White"
+                TextColor="#0F469A"
+                FontAttributes="Bold"
+                CornerRadius="15"
+                Margin="0" />
+
+                <!-- Back Button -->
+                <Button
+                Grid.Column="1"
+                Text="NEXT"
+                BackgroundColor="White"
+                TextColor="#0F469A"
+                FontAttributes="Bold"
+                CornerRadius="15"
+                Margin="0" />
+            </Grid>
+        </VerticalStackLayout>
+    </Grid>
 </ContentPage>

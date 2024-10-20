@@ -12,12 +12,14 @@
             InitializeComponent();
         }
 
+        // Opens the signup
         private async void OpenSignupPage_Clicked(object sender, EventArgs e)
         {
             //Navigate to SignUpPage
             await Navigation.PushAsync(new Signup());
         }
 
+        // Opens the homepage
         private async void OpenHomePage_Clicked(object sender, EventArgs e)
         {
             //Navigate to HomePage
@@ -28,6 +30,7 @@
             await toast.Show();
         }
 
+        // Double tap on back button to exit
         public async void OnBackAgain()
         {
             var toast = Toast.Make("Press back again to exit the app.", ToastDuration.Short);
@@ -42,7 +45,7 @@
             if (_isBackPressed)
             {
                 // Exit the app
-                System.Diagnostics.Process.GetCurrentProcess().CloseMainWindow();
+                Application.Current.Quit(); // or Environment.Exit(0);
             }
             else
             {
@@ -54,12 +57,16 @@
                 _cts = new CancellationTokenSource();
                 Task.Delay(2000, _cts.Token).ContinueWith(task =>
                 {
-                    _isBackPressed = false; // Reset flag if time passes
+                    if (!task.IsCanceled) // Only reset if the task completed
+                    {
+                        _isBackPressed = false; // Reset flag if time passes
+                    }
                 }, TaskScheduler.FromCurrentSynchronizationContext());
             }
 
             return true; // Prevent default back button action
         }
+
 
 
     }

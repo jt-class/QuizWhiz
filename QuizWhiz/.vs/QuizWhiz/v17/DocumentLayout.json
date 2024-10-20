@@ -1,78 +1,78 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ben \u0026 Cem\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\",
+  "WorkspaceRootPath": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\ben \u0026 cem\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\ben \u0026 cem\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\ben \u0026 cem\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\pages\\create quiz\\fillintheblankspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\pages\\create quiz\\fillintheblankspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\ben \u0026 cem\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\pages\\create quiz\\trueorfalsepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\pages\\create quiz\\trueorfalsepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\ben \u0026 cem\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\pages\\home\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\pages\\home\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\ben \u0026 cem\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\pages\\create quiz\\multiplechoicepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\pages\\create quiz\\multiplechoicepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\ben \u0026 cem\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\pages\\home\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\pages\\home\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\ben \u0026 cem\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\pages\\create quiz\\multiplechoicepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\pages\\create quiz\\multiplechoicepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\ben \u0026 cem\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\pages\\create quiz\\createquizpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\alber\\onedrive\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\pages\\create quiz\\createquizpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\pages\\create quiz\\createquizpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\ben \u0026 cem\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\pages\\profile\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\pages\\profile\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\ben \u0026 cem\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\pages\\profile\\profilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\pages\\profile\\profilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\ben \u0026 cem\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\pages\\create quiz\\fillintheblankspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\pages\\create quiz\\fillintheblankspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\ben \u0026 cem\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\pages\\create quiz\\trueorfalsepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\pages\\create quiz\\trueorfalsepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\ben \u0026 cem\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\pages\\create quiz\\createquizpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\alber\\onedrive\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\pages\\create quiz\\createquizpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\pages\\create quiz\\createquizpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\ben \u0026 cem\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\pages\\notification\\notificationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\alber\\onedrive\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\pages\\create quiz\\identificationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\pages\\create quiz\\identificationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\alber\\onedrive\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\pages\\create quiz\\trueorfalsepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\pages\\create quiz\\trueorfalsepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\alber\\onedrive\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\signuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\signuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\alber\\onedrive\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\alber\\onedrive\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\alber\\onedrive\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\pages\\home\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\pages\\home\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\alber\\onedrive\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\pages\\home\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\pages\\home\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\alber\\onedrive\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\pages\\create quiz\\trueorfalsepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\pages\\create quiz\\trueorfalsepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\alber\\onedrive\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\pages\\create quiz\\identificationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\pages\\create quiz\\identificationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\alber\\onedrive\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\pages\\create quiz\\multiplechoicepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\pages\\create quiz\\multiplechoicepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\alber\\onedrive\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\pages\\create quiz\\multiplechoicepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\pages\\create quiz\\multiplechoicepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\alber\\onedrive\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\pages\\profile\\profilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\pages\\profile\\profilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\alber\\onedrive\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\pages\\profile\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\pages\\profile\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\alber\\onedrive\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\pages\\notification\\notificationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\pages\\notification\\notificationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\ben \u0026 cem\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\pages\\notification\\notificationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\alber\\onedrive\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\pages\\notification\\notificationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\pages\\notification\\notificationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\ben \u0026 cem\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\alber\\onedrive\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|c:\\users\\ben \u0026 cem\\documents\\github\\quizwhiz\\quizwhiz\\quizwhiz\\signuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E279E5F7-B1A0-4D8A-B0F2-3A2AFC17A7D8}|QuizWhiz\\QuizWhiz.csproj|solutionrelative:quizwhiz\\signuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -87,23 +87,10 @@
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "SignupPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Ben \u0026 Cem\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\SignupPage.xaml.cs",
-              "RelativeDocumentMoniker": "QuizWhiz\\SignupPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Ben \u0026 Cem\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\SignupPage.xaml.cs",
-              "RelativeToolTip": "QuizWhiz\\SignupPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T03:00:39.93Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
               "Title": "SignupPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Ben \u0026 Cem\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\SignupPage.xaml",
+              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\SignupPage.xaml",
               "RelativeDocumentMoniker": "QuizWhiz\\SignupPage.xaml",
-              "ToolTip": "C:\\Users\\Ben \u0026 Cem\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\SignupPage.xaml",
+              "ToolTip": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\SignupPage.xaml",
               "RelativeToolTip": "QuizWhiz\\SignupPage.xaml",
               "ViewState": "AgIAADAAAAAAAAAAAAAAAJ4AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
@@ -112,208 +99,219 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LoginPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Ben \u0026 Cem\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\LoginPage.xaml.cs",
-              "RelativeDocumentMoniker": "QuizWhiz\\LoginPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Ben \u0026 Cem\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\LoginPage.xaml.cs",
-              "RelativeToolTip": "QuizWhiz\\LoginPage.xaml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA7wBQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T15:57:26.906Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "LoginPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Ben \u0026 Cem\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\LoginPage.xaml",
               "RelativeDocumentMoniker": "QuizWhiz\\LoginPage.xaml",
-              "ToolTip": "C:\\Users\\Ben \u0026 Cem\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\LoginPage.xaml",
               "RelativeToolTip": "QuizWhiz\\LoginPage.xaml",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFEAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-18T12:37:08.076Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomePage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Ben \u0026 Cem\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Home\\HomePage.xaml.cs",
-              "RelativeDocumentMoniker": "QuizWhiz\\Pages\\Home\\HomePage.xaml.cs",
-              "ToolTip": "C:\\Users\\Ben \u0026 Cem\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Home\\HomePage.xaml.cs",
-              "RelativeToolTip": "QuizWhiz\\Pages\\Home\\HomePage.xaml.cs",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T12:22:30.098Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HomePage.xaml",
-              "DocumentMoniker": "C:\\Users\\Ben \u0026 Cem\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Home\\HomePage.xaml",
-              "RelativeDocumentMoniker": "QuizWhiz\\Pages\\Home\\HomePage.xaml",
-              "ToolTip": "C:\\Users\\Ben \u0026 Cem\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Home\\HomePage.xaml",
-              "RelativeToolTip": "QuizWhiz\\Pages\\Home\\HomePage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-19T03:01:26.327Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CreateQuizPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Ben \u0026 Cem\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Create Quiz\\CreateQuizPage.xaml.cs",
-              "RelativeDocumentMoniker": "QuizWhiz\\Pages\\Create Quiz\\CreateQuizPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Ben \u0026 Cem\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Create Quiz\\CreateQuizPage.xaml.cs",
-              "RelativeToolTip": "QuizWhiz\\Pages\\Create Quiz\\CreateQuizPage.xaml.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T03:10:05.868Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "CreateQuizPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Ben \u0026 Cem\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Create Quiz\\CreateQuizPage.xaml",
-              "RelativeDocumentMoniker": "QuizWhiz\\Pages\\Create Quiz\\CreateQuizPage.xaml",
-              "ToolTip": "C:\\Users\\Ben \u0026 Cem\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Create Quiz\\CreateQuizPage.xaml",
-              "RelativeToolTip": "QuizWhiz\\Pages\\Create Quiz\\CreateQuizPage.xaml",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAAADgAAAAuAAAAAAAAAA==",
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Home\\HomePage.xaml",
+              "RelativeDocumentMoniker": "QuizWhiz\\Pages\\Home\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Home\\HomePage.xaml",
+              "RelativeToolTip": "QuizWhiz\\Pages\\Home\\HomePage.xaml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAGQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-19T03:09:57.538Z",
+              "WhenOpened": "2024-10-19T03:01:26.327Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MultipleChoicePage.xaml",
-              "DocumentMoniker": "C:\\Users\\Ben \u0026 Cem\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Create Quiz\\MultipleChoicePage.xaml",
-              "RelativeDocumentMoniker": "QuizWhiz\\Pages\\Create Quiz\\MultipleChoicePage.xaml",
-              "ToolTip": "C:\\Users\\Ben \u0026 Cem\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Create Quiz\\MultipleChoicePage.xaml",
-              "RelativeToolTip": "QuizWhiz\\Pages\\Create Quiz\\MultipleChoicePage.xaml",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAAAC4AAAAOAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "CreateQuizPage.xaml",
+              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Create Quiz\\CreateQuizPage.xaml",
+              "RelativeDocumentMoniker": "QuizWhiz\\Pages\\Create Quiz\\CreateQuizPage.xaml",
+              "ToolTip": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Create Quiz\\CreateQuizPage.xaml",
+              "RelativeToolTip": "QuizWhiz\\Pages\\Create Quiz\\CreateQuizPage.xaml",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAAAH8AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-20T02:45:37.82Z",
+              "WhenOpened": "2024-10-19T03:09:57.538Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FillInTheBlanksPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Ben \u0026 Cem\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Create Quiz\\FillInTheBlanksPage.xaml.cs",
-              "RelativeDocumentMoniker": "QuizWhiz\\Pages\\Create Quiz\\FillInTheBlanksPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Ben \u0026 Cem\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Create Quiz\\FillInTheBlanksPage.xaml.cs",
-              "RelativeToolTip": "QuizWhiz\\Pages\\Create Quiz\\FillInTheBlanksPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T02:49:06.7Z",
-              "EditorCaption": ""
+              "DocumentIndex": 15,
+              "Title": "NotificationPage.xaml",
+              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Notification\\NotificationPage.xaml",
+              "RelativeDocumentMoniker": "QuizWhiz\\Pages\\Notification\\NotificationPage.xaml",
+              "ToolTip": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Notification\\NotificationPage.xaml",
+              "RelativeToolTip": "QuizWhiz\\Pages\\Notification\\NotificationPage.xaml",
+              "ViewState": "AgIAAAwAAAAAAAAAACBjwCAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-19T12:46:30.148Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProfilePage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Ben \u0026 Cem\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Profile\\ProfilePage.xaml.cs",
-              "RelativeDocumentMoniker": "QuizWhiz\\Pages\\Profile\\ProfilePage.xaml.cs",
-              "ToolTip": "C:\\Users\\Ben \u0026 Cem\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Profile\\ProfilePage.xaml.cs",
-              "RelativeToolTip": "QuizWhiz\\Pages\\Profile\\ProfilePage.xaml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBEAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T02:51:20.81Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "TrueOrFalsePage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Ben \u0026 Cem\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Create Quiz\\TrueOrFalsePage.xaml.cs",
-              "RelativeDocumentMoniker": "QuizWhiz\\Pages\\Create Quiz\\TrueOrFalsePage.xaml.cs",
-              "ToolTip": "C:\\Users\\Ben \u0026 Cem\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Create Quiz\\TrueOrFalsePage.xaml.cs",
-              "RelativeToolTip": "QuizWhiz\\Pages\\Create Quiz\\TrueOrFalsePage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T02:48:30.09Z"
+              "DocumentIndex": 14,
+              "Title": "ProfilePage.xaml",
+              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Profile\\ProfilePage.xaml",
+              "RelativeDocumentMoniker": "QuizWhiz\\Pages\\Profile\\ProfilePage.xaml",
+              "ToolTip": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Profile\\ProfilePage.xaml",
+              "RelativeToolTip": "QuizWhiz\\Pages\\Profile\\ProfilePage.xaml",
+              "ViewState": "AgIAAH4AAAAAAAAAAIBZwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-20T03:11:45.56Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "TrueOrFalsePage.xaml",
-              "DocumentMoniker": "C:\\Users\\Ben \u0026 Cem\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Create Quiz\\TrueOrFalsePage.xaml",
+              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Create Quiz\\TrueOrFalsePage.xaml",
               "RelativeDocumentMoniker": "QuizWhiz\\Pages\\Create Quiz\\TrueOrFalsePage.xaml",
-              "ToolTip": "C:\\Users\\Ben \u0026 Cem\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Create Quiz\\TrueOrFalsePage.xaml",
+              "ToolTip": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Create Quiz\\TrueOrFalsePage.xaml",
               "RelativeToolTip": "QuizWhiz\\Pages\\Create Quiz\\TrueOrFalsePage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAhwF4AAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-20T02:47:36.77Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MultipleChoicePage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Ben \u0026 Cem\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Create Quiz\\MultipleChoicePage.xaml.cs",
-              "RelativeDocumentMoniker": "QuizWhiz\\Pages\\Create Quiz\\MultipleChoicePage.xaml.cs",
-              "ToolTip": "C:\\Users\\Ben \u0026 Cem\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Create Quiz\\MultipleChoicePage.xaml.cs",
-              "RelativeToolTip": "QuizWhiz\\Pages\\Create Quiz\\MultipleChoicePage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T02:51:35.36Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProfilePage.xaml",
-              "DocumentMoniker": "C:\\Users\\Ben \u0026 Cem\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Profile\\ProfilePage.xaml",
-              "RelativeDocumentMoniker": "QuizWhiz\\Pages\\Profile\\ProfilePage.xaml",
-              "ToolTip": "C:\\Users\\Ben \u0026 Cem\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Profile\\ProfilePage.xaml",
-              "RelativeToolTip": "QuizWhiz\\Pages\\Profile\\ProfilePage.xaml",
-              "ViewState": "AgIAAIQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-20T03:11:45.56Z"
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "FillInTheBlanksPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Ben \u0026 Cem\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Create Quiz\\FillInTheBlanksPage.xaml",
-              "RelativeDocumentMoniker": "QuizWhiz\\Pages\\Create Quiz\\FillInTheBlanksPage.xaml",
-              "ToolTip": "C:\\Users\\Ben \u0026 Cem\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Create Quiz\\FillInTheBlanksPage.xaml",
-              "RelativeToolTip": "QuizWhiz\\Pages\\Create Quiz\\FillInTheBlanksPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Title": "MultipleChoicePage.xaml",
+              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Create Quiz\\MultipleChoicePage.xaml",
+              "RelativeDocumentMoniker": "QuizWhiz\\Pages\\Create Quiz\\MultipleChoicePage.xaml",
+              "ToolTip": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Create Quiz\\MultipleChoicePage.xaml",
+              "RelativeToolTip": "QuizWhiz\\Pages\\Create Quiz\\MultipleChoicePage.xaml",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-20T02:42:14.279Z"
+              "WhenOpened": "2024-10-20T02:45:37.82Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 10,
+              "Title": "IdentificationPage.xaml",
+              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Create Quiz\\IdentificationPage.xaml",
+              "RelativeDocumentMoniker": "QuizWhiz\\Pages\\Create Quiz\\IdentificationPage.xaml",
+              "ToolTip": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Create Quiz\\IdentificationPage.xaml",
+              "RelativeToolTip": "QuizWhiz\\Pages\\Create Quiz\\IdentificationPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-20T14:52:01.887Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "QuizWhiz\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\LoginPage.xaml.cs",
+              "RelativeToolTip": "QuizWhiz\\LoginPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T15:57:26.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TrueOrFalsePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Create Quiz\\TrueOrFalsePage.xaml.cs",
+              "RelativeDocumentMoniker": "QuizWhiz\\Pages\\Create Quiz\\TrueOrFalsePage.xaml.cs",
+              "ToolTip": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Create Quiz\\TrueOrFalsePage.xaml.cs",
+              "RelativeToolTip": "QuizWhiz\\Pages\\Create Quiz\\TrueOrFalsePage.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBwAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T02:48:30.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignupPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\SignupPage.xaml.cs",
+              "RelativeDocumentMoniker": "QuizWhiz\\SignupPage.xaml.cs",
+              "ToolTip": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\SignupPage.xaml.cs",
+              "RelativeToolTip": "QuizWhiz\\SignupPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:00:39.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProfilePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Profile\\ProfilePage.xaml.cs",
+              "RelativeDocumentMoniker": "QuizWhiz\\Pages\\Profile\\ProfilePage.xaml.cs",
+              "ToolTip": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Profile\\ProfilePage.xaml.cs",
+              "RelativeToolTip": "QuizWhiz\\Pages\\Profile\\ProfilePage.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAlwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T02:51:20.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Home\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "QuizWhiz\\Pages\\Home\\HomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Home\\HomePage.xaml.cs",
+              "RelativeToolTip": "QuizWhiz\\Pages\\Home\\HomePage.xaml.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAiwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:22:30.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IdentificationPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Create Quiz\\IdentificationPage.xaml.cs",
+              "RelativeDocumentMoniker": "QuizWhiz\\Pages\\Create Quiz\\IdentificationPage.xaml.cs",
+              "ToolTip": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Create Quiz\\IdentificationPage.xaml.cs",
+              "RelativeToolTip": "QuizWhiz\\Pages\\Create Quiz\\IdentificationPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:52:25.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateQuizPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Create Quiz\\CreateQuizPage.xaml.cs",
+              "RelativeDocumentMoniker": "QuizWhiz\\Pages\\Create Quiz\\CreateQuizPage.xaml.cs",
+              "ToolTip": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Create Quiz\\CreateQuizPage.xaml.cs",
+              "RelativeToolTip": "QuizWhiz\\Pages\\Create Quiz\\CreateQuizPage.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T03:10:05.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "NotificationPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Ben \u0026 Cem\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Notification\\NotificationPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Notification\\NotificationPage.xaml.cs",
               "RelativeDocumentMoniker": "QuizWhiz\\Pages\\Notification\\NotificationPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Ben \u0026 Cem\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Notification\\NotificationPage.xaml.cs",
+              "ToolTip": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Notification\\NotificationPage.xaml.cs",
               "RelativeToolTip": "QuizWhiz\\Pages\\Notification\\NotificationPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T12:47:10.788Z"
+              "WhenOpened": "2024-10-19T12:47:10.788Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "NotificationPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Ben \u0026 Cem\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Notification\\NotificationPage.xaml",
-              "RelativeDocumentMoniker": "QuizWhiz\\Pages\\Notification\\NotificationPage.xaml",
-              "ToolTip": "C:\\Users\\Ben \u0026 Cem\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Notification\\NotificationPage.xaml",
-              "RelativeToolTip": "QuizWhiz\\Pages\\Notification\\NotificationPage.xaml",
-              "ViewState": "AgIAAA8AAAAAAAAAAIBZwCAAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-19T12:46:30.148Z"
+              "DocumentIndex": 12,
+              "Title": "MultipleChoicePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Create Quiz\\MultipleChoicePage.xaml.cs",
+              "RelativeDocumentMoniker": "QuizWhiz\\Pages\\Create Quiz\\MultipleChoicePage.xaml.cs",
+              "ToolTip": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Create Quiz\\MultipleChoicePage.xaml.cs",
+              "RelativeToolTip": "QuizWhiz\\Pages\\Create Quiz\\MultipleChoicePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T02:51:35.36Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -102,6 +102,7 @@
                 <Button
                 Text="CREATE NOW"
                 Clicked="OpenCreateButton_Clicked"
+                TextColor="Black"
                 BackgroundColor="White"
                 Margin="35,25,35,15"/>
             </VerticalStackLayout>

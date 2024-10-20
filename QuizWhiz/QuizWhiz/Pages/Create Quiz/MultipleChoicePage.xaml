@@ -5,7 +5,8 @@
              Title="MultipleChoicePage"
              Background="#0F469A">
 
-    <Grid Margin="0,0,0,0">
+    <Grid RowSpacing="10">
+        <!-- Added RowSpacing -->
         <!-- Define Grid structure -->
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto" />
@@ -15,17 +16,23 @@
             <RowDefinition Height="Auto" />
             <!-- Choices Label -->
             <RowDefinition Height="Auto" />
-            <!-- Choices -->
+            <!-- Choice 1 -->
+            <RowDefinition Height="Auto" />
+            <!-- Choice 2 -->
+            <RowDefinition Height="Auto" />
+            <!-- Choice 3 -->
+            <RowDefinition Height="Auto" />
+            <!-- Choice 4 -->
             <RowDefinition Height="*" />
-            <!-- Continue/Back Buttons -->
+            <!-- Continue/Back Button -->
         </Grid.RowDefinitions>
 
         <!-- Header with close button and title -->
         <Grid Grid.Row="0" Padding="15">
             <Image 
                 Source="close.png" 
-                WidthRequest="25" 
-                HeightRequest="25"
+                WidthRequest="20" 
+                HeightRequest="20"
                 HorizontalOptions="Start"
                 VerticalOptions="Center"
                 Margin="0,0,15,0">
@@ -37,7 +44,7 @@
             <Label 
                 Text="MULTIPLE CHOICE"
                 TextColor="White"
-                FontSize="25"
+                FontSize="20"
                 FontAttributes="Bold"
                 HorizontalOptions="Center"
                 VerticalOptions="Center" />
@@ -49,7 +56,7 @@
             Background="White"
             x:Name="frameQuestion"
             CornerRadius="10"
-            Margin="25,10,25,20"
+            Margin="25,0,25,10"
             HasShadow="True">
             <VerticalStackLayout Margin="15,0,15,0">
                 <Label
@@ -61,7 +68,7 @@
                     FontAttributes="Bold" />
                 <Editor
                     TextColor="Black"
-                    Margin="0,25,0,25"
+                    Margin="0,15,0,15"
                     HeightRequest="120"
                     FontSize="15"
                     VerticalTextAlignment="Center"
@@ -75,57 +82,60 @@
             Text="FILL IN YOUR CHOICES HERE"
             TextColor="White"
             FontSize="15"
-            Margin="30,0,0,10"/>
+            Margin="30,0,0,0"/>
 
         <!-- Choices Frames -->
-        <VerticalStackLayout
-            Spacing="10"
-            Grid.Row="3"
-            Margin="0,0,0,0">
+        <Frame Background="White" CornerRadius="10" Margin="25,0,25,0" Padding="10" HasShadow="True" Grid.Row="3">
+            <Editor TextColor="Black" FontSize="15" Placeholder="Choice 1" VerticalTextAlignment="Center"/>
+        </Frame>
 
-            <!-- Repeat for Choice 1-4 -->
-            <Frame Background="White" CornerRadius="10" Margin="25,0,25,0" Padding="15" HasShadow="True">
-                <Editor TextColor="Black" FontSize="15" Placeholder="Choice 1" VerticalTextAlignment="Center"/>
-            </Frame>
+        <Frame Background="White" CornerRadius="10" Margin="25,0,25,0" Padding="10" HasShadow="True" Grid.Row="4">
+            <Editor TextColor="Black" FontSize="15" Placeholder="Choice 2" VerticalTextAlignment="Center"/>
+        </Frame>
 
-            <Frame Background="White" CornerRadius="10" Margin="25,0,25,0" Padding="15" HasShadow="True">
-                <Editor TextColor="Black" FontSize="15" Placeholder="Choice 2" VerticalTextAlignment="Center"/>
-            </Frame>
+        <Frame Background="White" CornerRadius="10" Margin="25,0,25,0" Padding="10" HasShadow="True" Grid.Row="5">
+            <Editor TextColor="Black" FontSize="15" Placeholder="Choice 3" VerticalTextAlignment="Center"/>
+        </Frame>
 
-            <Frame Background="White" CornerRadius="10" Margin="25,0,25,0" Padding="15" HasShadow="True">
-                <Editor TextColor="Black" FontSize="15" Placeholder="Choice 3" VerticalTextAlignment="Center"/>
-            </Frame>
+        <Frame Background="White" CornerRadius="10" Margin="25,0,25,0" Padding="10" HasShadow="True" Grid.Row="6">
+            <Editor TextColor="Black" FontSize="15" Placeholder="Choice 4" VerticalTextAlignment="Center"/>
+        </Frame>
 
-            <Frame Background="White" CornerRadius="10" Margin="25,0,25,0" Padding="15" HasShadow="True">
-                <Editor TextColor="Black" FontSize="15" Placeholder="Choice 4" VerticalTextAlignment="Center"/>
-            </Frame>
-        </VerticalStackLayout>
+        <VerticalStackLayout             
+            Grid.Row="7"
+            HorizontalOptions="End">
+            
+            <Grid
+            ColumnSpacing="10"
+            Margin="25,10,25,0">
 
-        <!-- Continue and Back Buttons -->
-        <VerticalStackLayout
-            Grid.Row="4"
-            Margin="0,0,0,0"
-            Spacing="10"
-            VerticalOptions="Center">
+                <!-- Define two equal columns -->
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="100" />
+                    <ColumnDefinition Width="100" />
+                </Grid.ColumnDefinitions>
 
-            <Button
-                Text="CONTINUE"
-                BackgroundColor="White"
-                TextColor="#0F469A"
-                FontAttributes="Bold"
-                CornerRadius="20"
-                Margin="25,0,25,0"
-                HeightRequest="50"/>
-
-            <Button
-                Text="BACK"
+                <!-- Continue Button -->
+                <Button
+                Grid.Column="0"
+                Text="PREVIOUS"
                 Clicked="OnBackButtonClicked"
                 BackgroundColor="White"
                 TextColor="#0F469A"
                 FontAttributes="Bold"
-                CornerRadius="20"
-                Margin="25,0,25,0"
-                HeightRequest="50"/>
+                CornerRadius="15"
+                Margin="0" />
+
+                <!-- Back Button -->
+                <Button
+                Grid.Column="1"
+                Text="NEXT"
+                BackgroundColor="White"
+                TextColor="#0F469A"
+                FontAttributes="Bold"
+                CornerRadius="15"
+                Margin="0" />
+            </Grid>
         </VerticalStackLayout>
     </Grid>
 </ContentPage>

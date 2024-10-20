@@ -40,7 +40,8 @@ public partial class HomePage : ContentPage
     {
         await Navigation.PushAsync(new QuizWhiz.Pages.Create_Quiz.CreateQuizPage());
     }
-    
+
+    // double tap on back button to exit
     public async void OnBackAgain()
     {
         var toast = Toast.Make("Press back again to exit the app.", ToastDuration.Short);
@@ -55,7 +56,7 @@ public partial class HomePage : ContentPage
         if (_isBackPressed)
         {
             // Exit the app
-            System.Diagnostics.Process.GetCurrentProcess().CloseMainWindow();
+            Application.Current.Quit(); // or Environment.Exit(0);
         }
         else
         {
@@ -67,7 +68,10 @@ public partial class HomePage : ContentPage
             _cts = new CancellationTokenSource();
             Task.Delay(2000, _cts.Token).ContinueWith(task =>
             {
-                _isBackPressed = false; // Reset flag if time passes
+                if (!task.IsCanceled) // Only reset if the task completed
+                {
+                    _isBackPressed = false; // Reset flag if time passes
+                }
             }, TaskScheduler.FromCurrentSynchronizationContext());
         }
 

@@ -84,7 +84,7 @@
 	  <MauiXaml Update="Pages\Create Quiz\CreateQuizPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
-	  <MauiXaml Update="Pages\Create Quiz\FillInTheBlanksPage.xaml">
+	  <MauiXaml Update="Pages\Create Quiz\IdentificationPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	  <MauiXaml Update="Pages\Create Quiz\MultipleChoicePage.xaml">
