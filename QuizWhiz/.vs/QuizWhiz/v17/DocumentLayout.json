@@ -131,7 +131,7 @@
               "RelativeDocumentMoniker": "QuizWhiz\\Pages\\Create Quiz\\CreateQuizPage.xaml",
               "ToolTip": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Create Quiz\\CreateQuizPage.xaml",
               "RelativeToolTip": "QuizWhiz\\Pages\\Create Quiz\\CreateQuizPage.xaml",
-              "ViewState": "AgIAAJUAAAAAAAAAAAAAAH8AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAswKUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-19T03:09:57.538Z",
               "IsPinned": true,
@@ -145,10 +145,11 @@
               "RelativeDocumentMoniker": "QuizWhiz\\Pages\\Notification\\NotificationPage.xaml",
               "ToolTip": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Notification\\NotificationPage.xaml",
               "RelativeToolTip": "QuizWhiz\\Pages\\Notification\\NotificationPage.xaml",
-              "ViewState": "AgIAAAwAAAAAAAAAACBjwCAAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBpwCAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-19T12:46:30.148Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -158,10 +159,11 @@
               "RelativeDocumentMoniker": "QuizWhiz\\Pages\\Profile\\ProfilePage.xaml",
               "ToolTip": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Profile\\ProfilePage.xaml",
               "RelativeToolTip": "QuizWhiz\\Pages\\Profile\\ProfilePage.xaml",
-              "ViewState": "AgIAAH4AAAAAAAAAAIBZwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHsAAAAAAAAAACBjwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-20T03:11:45.56Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -174,7 +176,8 @@
               "ViewState": "AgIAAEsAAAAAAAAAAAAhwF4AAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-20T02:47:36.77Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -184,10 +187,11 @@
               "RelativeDocumentMoniker": "QuizWhiz\\Pages\\Create Quiz\\MultipleChoicePage.xaml",
               "ToolTip": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Create Quiz\\MultipleChoicePage.xaml",
               "RelativeToolTip": "QuizWhiz\\Pages\\Create Quiz\\MultipleChoicePage.xaml",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAF8AAAAAAAAAAIBJwGcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-20T02:45:37.82Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -200,7 +204,8 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-20T14:52:01.887Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -212,7 +217,8 @@
               "RelativeToolTip": "QuizWhiz\\LoginPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T15:57:26.906Z"
+              "WhenOpened": "2024-10-18T15:57:26.906Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -222,9 +228,10 @@
               "RelativeDocumentMoniker": "QuizWhiz\\Pages\\Create Quiz\\TrueOrFalsePage.xaml.cs",
               "ToolTip": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Create Quiz\\TrueOrFalsePage.xaml.cs",
               "RelativeToolTip": "QuizWhiz\\Pages\\Create Quiz\\TrueOrFalsePage.xaml.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBwAAABUAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBwAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T02:48:30.09Z"
+              "WhenOpened": "2024-10-20T02:48:30.09Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -236,7 +243,8 @@
               "RelativeToolTip": "QuizWhiz\\SignupPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T03:00:39.93Z"
+              "WhenOpened": "2024-10-19T03:00:39.93Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -246,9 +254,10 @@
               "RelativeDocumentMoniker": "QuizWhiz\\Pages\\Profile\\ProfilePage.xaml.cs",
               "ToolTip": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Profile\\ProfilePage.xaml.cs",
               "RelativeToolTip": "QuizWhiz\\Pages\\Profile\\ProfilePage.xaml.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAlwBEAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAIA3wBEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T02:51:20.81Z"
+              "WhenOpened": "2024-10-20T02:51:20.81Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -260,7 +269,8 @@
               "RelativeToolTip": "QuizWhiz\\Pages\\Home\\HomePage.xaml.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAiwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T12:22:30.098Z"
+              "WhenOpened": "2024-10-18T12:22:30.098Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -272,7 +282,8 @@
               "RelativeToolTip": "QuizWhiz\\Pages\\Create Quiz\\IdentificationPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T14:52:25.51Z"
+              "WhenOpened": "2024-10-20T14:52:25.51Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -282,7 +293,7 @@
               "RelativeDocumentMoniker": "QuizWhiz\\Pages\\Create Quiz\\CreateQuizPage.xaml.cs",
               "ToolTip": "C:\\Users\\alber\\OneDrive\\Documents\\GitHub\\QuizWhiz\\QuizWhiz\\QuizWhiz\\Pages\\Create Quiz\\CreateQuizPage.xaml.cs",
               "RelativeToolTip": "QuizWhiz\\Pages\\Create Quiz\\CreateQuizPage.xaml.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAqwFcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwE4AAAClAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T03:10:05.868Z",
               "EditorCaption": ""

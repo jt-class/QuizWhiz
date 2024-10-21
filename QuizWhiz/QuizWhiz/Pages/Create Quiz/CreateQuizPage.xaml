@@ -87,7 +87,8 @@
                                 VerticalTextAlignment="Center"
                                 Placeholder="Enter quiz name here"
                                 BackgroundColor="Transparent"
-                                PlaceholderColor="LightGray"/>
+                                PlaceholderColor="LightGray"
+                                MaxLength="30"/>
                         </Grid>
                     </Frame>
                     
@@ -117,7 +118,8 @@
                                 Placeholder="(Optional)"
                                 VerticalTextAlignment="Center"
                                 BackgroundColor="Transparent"
-                                PlaceholderColor="LightGray"/>
+                                PlaceholderColor="LightGray"
+                                MaxLength="80"/>
                         </Grid>
                     </Frame>
 
@@ -130,7 +132,7 @@
                         BorderColor="transparent">
 
                         <VerticalStackLayout>
-                            <HorizontalStackLayout>
+                            <HorizontalStackLayout Spacing="2">
                                 <Label
                                     Margin="10,0,0,0"
                                     Text="TIME:"
@@ -138,14 +140,31 @@
                                     VerticalOptions="Center"/>
 
                                 <Entry
-                                    x:Name="entryTime"
+                                    x:Name="entryTimeMinutes"
                                     HorizontalTextAlignment="Center"
                                     VerticalTextAlignment="Center"
-                                    Placeholder="Ex. 30:00 "
-                                    PlaceholderColor="LightGrey"/>
+                                    Placeholder="Ex. 25 "
+                                    PlaceholderColor="LightGrey"
+                                    Keyboard="Numeric"
+                                    MaxLength="2"/>
 
                                 <Label
-                                    Text="MM:SS"
+                                    Text="MINUTES"
+                                    TextColor="White"
+                                    VerticalOptions="Center"/>
+
+                                <Entry
+                                    x:Name="entryTimeSeconds"
+                                    Text="00"
+                                    HorizontalTextAlignment="Center"
+                                    VerticalTextAlignment="Center"
+                                    Placeholder="Ex. 00"
+                                    PlaceholderColor="LightGrey"
+                                    Keyboard="Numeric"
+                                    MaxLength="2"/>
+
+                                <Label
+                                    Text="SECONDS"
                                     TextColor="White"
                                     VerticalOptions="Center"/>
 
@@ -161,16 +180,18 @@
 
                                 <Entry
                                     x:Name="entryNumberOfQuestions"
-                                    Placeholder="1 - 50 "
+                                    Placeholder="1 - 50"
                                     VerticalTextAlignment="Center"
-                                    PlaceholderColor="LightGrey"/>
+                                    PlaceholderColor="LightGrey"
+                                    Keyboard="Numeric"
+                                    MaxLength="2"/>
                             </HorizontalStackLayout>
                         </VerticalStackLayout>
                     </Frame>
 
                     <Label
                         x:Name="xTypeOfQuiz"
-                        Text="X Please choose a type of quiz."
+                        Text="X Choose a type of quiz."
                         TextColor="Red"
                         FontAttributes="Bold"
                         IsVisible="Hidden"
@@ -178,15 +199,23 @@
 
                     <Label
                         x:Name="xQuizName"
-                        Text="X Please enter a name for your quiz."
+                        Text="X Enter a name for your quiz."
                         TextColor="Red"
                         FontAttributes="Bold"
                         IsVisible="Hidden"
                         Margin="0,0,0,5"/>
 
                     <Label
-                        x:Name="xTime"
-                        Text="X Please set a time duration."
+                        x:Name="xTimeMinutes"
+                        Text="X Set a minutes duration."
+                        TextColor="Red"
+                        FontAttributes="Bold"
+                        IsVisible="Hidden"
+                        Margin="0,0,0,5"/>
+
+                    <Label
+                        x:Name="xTimeSeconds"
+                        Text="X Set a seconds duration."
                         TextColor="Red"
                         FontAttributes="Bold"
                         IsVisible="Hidden"
@@ -194,7 +223,7 @@
 
                     <Label
                         x:Name="xNumberOfQuestions"
-                        Text="X Please set a number of questions."
+                        Text="X Set a number of questions."
                         TextColor="Red"
                         FontAttributes="Bold"
                         IsVisible="Hidden"

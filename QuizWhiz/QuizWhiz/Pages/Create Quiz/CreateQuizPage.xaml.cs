@@ -2,9 +2,10 @@ namespace QuizWhiz.Pages.Create_Quiz;
 
 public partial class CreateQuizPage : ContentPage
 {
-	public CreateQuizPage()
-	{
-		InitializeComponent();
+
+    public CreateQuizPage()
+    {
+        InitializeComponent();
 
         // Picker choices
         List<string> options = new List<string>
@@ -30,7 +31,8 @@ public partial class CreateQuizPage : ContentPage
             xTypeOfQuiz.IsVisible = true;
         }
 
-        else {
+        else
+        {
             xTypeOfQuiz.IsVisible = false;
         }
 
@@ -44,14 +46,24 @@ public partial class CreateQuizPage : ContentPage
             xQuizName.IsVisible = false;
         }
 
-        if (string.IsNullOrWhiteSpace(entryTime.Text))
+        if (string.IsNullOrWhiteSpace(entryTimeMinutes.Text))
         {
-            xTime.IsVisible = true;
+            xTimeMinutes.IsVisible = true;
         }
 
         else
         {
-            xTime.IsVisible = false;
+            xTimeMinutes.IsVisible = false;
+        }
+
+        if (string.IsNullOrWhiteSpace(entryTimeSeconds.Text))
+        {
+            xTimeSeconds.IsVisible = true;
+        }
+
+        else
+        {
+            xTimeSeconds.IsVisible = false;
         }
 
         if (string.IsNullOrWhiteSpace(entryNumberOfQuestions.Text))
@@ -64,7 +76,7 @@ public partial class CreateQuizPage : ContentPage
             xNumberOfQuestions.IsVisible = false;
         }
 
-        if (!string.IsNullOrWhiteSpace(entryQuizName.Text) && !string.IsNullOrWhiteSpace(entryTime.Text) && !string.IsNullOrWhiteSpace(entryNumberOfQuestions.Text))
+        if (!string.IsNullOrWhiteSpace(entryQuizName.Text) && !string.IsNullOrWhiteSpace(entryTimeMinutes.Text) && !string.IsNullOrWhiteSpace(entryTimeSeconds.Text) && !string.IsNullOrWhiteSpace(entryNumberOfQuestions.Text))
         {
             if (TOQPicker.SelectedIndex == 0)
             {
@@ -85,4 +97,8 @@ public partial class CreateQuizPage : ContentPage
             }
         }
     }
+
 }
+
+
+
