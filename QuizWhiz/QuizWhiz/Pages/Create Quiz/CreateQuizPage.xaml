@@ -155,7 +155,7 @@
 
                                 <Entry
                                     x:Name="entryTimeSeconds"
-                                    Text="00"
+                                    Text=""
                                     HorizontalTextAlignment="Center"
                                     VerticalTextAlignment="Center"
                                     Placeholder="Ex. 00"
@@ -180,7 +180,7 @@
 
                                 <Entry
                                     x:Name="entryNumberOfQuestions"
-                                    Placeholder="1 - 50"
+                                    Placeholder="Ex. 50"
                                     VerticalTextAlignment="Center"
                                     PlaceholderColor="LightGrey"
                                     Keyboard="Numeric"

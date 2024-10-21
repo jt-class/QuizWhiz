@@ -26,6 +26,8 @@ public partial class CreateQuizPage : ContentPage
     // Checks all criteria and proceeds to the next page
     private async void OnNextbuttonClicked(object sender, EventArgs e)
     {
+        bool isInputValid = true;
+
         if (TOQPicker.SelectedIndex == -1)
         {
             xTypeOfQuiz.IsVisible = true;
@@ -45,6 +47,63 @@ public partial class CreateQuizPage : ContentPage
         {
             xQuizName.IsVisible = false;
         }
+
+        try
+        {
+            if (!string.IsNullOrWhiteSpace(entryTimeMinutes.Text) &&
+                !string.IsNullOrWhiteSpace(entryTimeSeconds.Text) &&
+                !string.IsNullOrWhiteSpace(entryNumberOfQuestions.Text))
+            {
+                bool isValid = true;
+
+                try
+                {
+                    int number = int.Parse(entryTimeMinutes.Text);
+                    xTimeMinutes.IsVisible = false;
+                }
+                catch
+                {
+                    xTimeMinutes.IsVisible = true;
+                    isValid = false;
+                }
+
+                try
+                {
+                    int number1 = int.Parse(entryTimeSeconds.Text);
+                    xTimeSeconds.IsVisible = false;
+                }
+                catch
+                {
+                    xTimeSeconds.IsVisible = true;
+                    isValid = false;
+                }
+
+                try
+                {
+                    int number2 = int.Parse(entryNumberOfQuestions.Text);
+                    xNumberOfQuestions.IsVisible = false;
+                }
+                catch
+                {
+                    xNumberOfQuestions.IsVisible = true;
+                    isValid = false;
+                }
+
+                if (!isValid)
+                {
+                    DisplayAlert("Invalid input", "Please enter valid inputs.", "OK");
+                    isInputValid = false;
+                    return;
+                }
+            }
+        }
+        catch (Exception ex) // Consider capturing the exception type to diagnose issues.
+        {
+            DisplayAlert("Invalid input", "Please enter a valid input.", "OK");
+            isInputValid = false;
+            // Optionally log or display ex.Message for debugging
+        }
+
 
         if (string.IsNullOrWhiteSpace(entryTimeMinutes.Text))
         {
@@ -76,7 +135,7 @@ public partial class CreateQuizPage : ContentPage
             xNumberOfQuestions.IsVisible = false;
         }
 
-        if (!string.IsNullOrWhiteSpace(entryQuizName.Text) && !string.IsNullOrWhiteSpace(entryTimeMinutes.Text) && !string.IsNullOrWhiteSpace(entryTimeSeconds.Text) && !string.IsNullOrWhiteSpace(entryNumberOfQuestions.Text))
+        if (isInputValid && !string.IsNullOrWhiteSpace(entryQuizName.Text) && !string.IsNullOrWhiteSpace(entryTimeMinutes.Text) && !string.IsNullOrWhiteSpace(entryTimeSeconds.Text) && !string.IsNullOrWhiteSpace(entryNumberOfQuestions.Text))
         {
             if (TOQPicker.SelectedIndex == 0)
             {
