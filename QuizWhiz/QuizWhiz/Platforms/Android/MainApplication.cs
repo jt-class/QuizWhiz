@@ -17,9 +17,6 @@ namespace QuizWhiz
                 {
                     // Remove underline
                     handler.PlatformView.BackgroundTintList = ColorStateList.ValueOf(Android.Graphics.Color.Transparent);
-
-                    // Change placeholder text color
-                    handler.PlatformView.SetHintTextColor(ColorStateList.ValueOf(Android.Graphics.Color.Gray));
                 }
             });
 
@@ -30,9 +27,6 @@ namespace QuizWhiz
                 {
                     // Remove underline
                     handler.PlatformView.BackgroundTintList = ColorStateList.ValueOf(Android.Graphics.Color.Transparent);
-
-                    // Change placeholder text color (if applicable)
-                    handler.PlatformView.SetHintTextColor(ColorStateList.ValueOf(Android.Graphics.Color.Gray));
                 }
             });
         }
