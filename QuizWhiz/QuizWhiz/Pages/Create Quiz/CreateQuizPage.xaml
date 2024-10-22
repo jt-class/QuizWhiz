@@ -86,6 +86,7 @@
                                 x:Name="entryQuizName"
                                 VerticalTextAlignment="Center"
                                 Placeholder="Enter quiz name here"
+                                TextColor="White"
                                 BackgroundColor="Transparent"
                                 PlaceholderColor="LightGray"
                                 MaxLength="30"/>
@@ -118,7 +119,8 @@
                                 Placeholder="(Optional)"
                                 VerticalTextAlignment="Center"
                                 BackgroundColor="Transparent"
-                                PlaceholderColor="LightGray"
+                                TextColor="White"
+                                PlaceholderColor="lightgray"
                                 MaxLength="80"/>
                         </Grid>
                     </Frame>
@@ -145,6 +147,7 @@
                                     VerticalTextAlignment="Center"
                                     Placeholder="Ex. 25 "
                                     PlaceholderColor="LightGrey"
+                                    TextColor="White"
                                     Keyboard="Numeric"
                                     MaxLength="2"/>
 
@@ -155,11 +158,11 @@
 
                                 <Entry
                                     x:Name="entryTimeSeconds"
-                                    Text=""
                                     HorizontalTextAlignment="Center"
                                     VerticalTextAlignment="Center"
                                     Placeholder="Ex. 00"
                                     PlaceholderColor="LightGrey"
+                                    TextColor="White"
                                     Keyboard="Numeric"
                                     MaxLength="2"/>
 
@@ -183,6 +186,7 @@
                                     Placeholder="Ex. 50"
                                     VerticalTextAlignment="Center"
                                     PlaceholderColor="LightGrey"
+                                    TextColor="White"
                                     Keyboard="Numeric"
                                     MaxLength="2"/>
                             </HorizontalStackLayout>

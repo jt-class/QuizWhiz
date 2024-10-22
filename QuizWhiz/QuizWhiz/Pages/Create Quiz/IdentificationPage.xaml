@@ -65,7 +65,8 @@
                     HeightRequest="120"
                     FontSize="15"
                     VerticalTextAlignment="Center"
-                    HorizontalTextAlignment="Center" />
+                    HorizontalTextAlignment="Center"
+                    AutoSize="TextChanges"/>
             </VerticalStackLayout>
         </Frame>
 
